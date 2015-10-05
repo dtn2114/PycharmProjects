@@ -1,0 +1,388 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LG17zmhYd2diz7PWBMQ2KdiY0OaxuagDPI32+1uYpop5v0P30AVv+yvSDZWey4zQ
+ amYdORarmt6y/QCR7hHoCw==
+
+<SEC-DOCUMENT>0000905718-96-000187.txt : 19960812
+<SEC-HEADER>0000905718-96-000187.hdr.sgml : 19960812
+ACCESSION NUMBER:		0000905718-96-000187
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960809
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FACTORY STORES OF AMERICA INC
+		CENTRAL INDEX KEY:			0000899757
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				561819372
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45807
+		FILM NUMBER:		96606480
+
+	BUSINESS ADDRESS:	
+		STREET 1:		230 N EQUITY DRIVE
+		CITY:			SMITHFIELD
+		STATE:			NC
+		ZIP:			27577
+		BUSINESS PHONE:		9199349446
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITRIN JEFFREY B
+		CENTRAL INDEX KEY:			0001019975
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		950 THIRD AVENUE 17TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127585106
+
+	MAIL ADDRESS:	
+		STREET 1:		950 THIRD AVENUE
+		STREET 2:		17TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>13D FAC REALTY, INC.
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D. C. 20549
+
+                                  SCHEDULE l3D
+
+                    Under the Securities Exchange Act of 1934
+
+                                FAC REALTY, INC.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                                  Common Stock
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    301953105
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                                                                 with a copy to:
+Jeffrey B. Citrin                                         Robert G. Minion, Esq.
+950 Third Avenue                                     Lowenstein,  Sandler, Kohl,
+ 17th Floor                                                Fisher & Boylan, P.A.
+New York, NY 10022                                          65 Livingston Avenue
+(212) 758-5106                                                Roseland, NJ 07068
+                                                                  (201) 992-8700
+- --------------------------------------------------------------------------------
+                 (Name, Address and Telephone Number of Persons
+                Authorized to Receive Notices and Communications)
+
+                                  July 22, 1996
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously  filed a statement on Schedule l3G to report
+the  acquisition  which is the subject of this  Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box |_|.
+
+Check the following box if a fee is being paid with this  statement  |X|. (A fee
+is not required only if the reporting  person:  (1) has a previous  statement on
+file  reporting  beneficial  ownership of more than five percent of the class of
+securities  described  in Item 1;  and (2) has  filed  no  amendment  subsequent
+thereto reporting  beneficial ownership of less than five percent of such class.
+See Rule 13d-7.)
+
+Note: Six copies of this statement, including all exhibits, should be filed with
+the  Commission.  See Rule  l3d-1(a) for other  parties to whom copies are to be
+sent.
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act.
+
+
+<PAGE>
+
+
+
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+     1) Name of Reporting Person (S.S. or I.R.S. Identification Nos. of 
+        Aove Person):
+
+             Jeffrey B. Citrin
+
+     2) Check the Appropriate Box if a Member of a Group (See Instructions):
+         (a)      |_|
+         (b)      |_|
+
+     3)  SEC Use Only
+
+     4)  Source of Funds (See Instructions):  WC
+
+     5)  Check if Disclosure of Legal Proceedings is Required Pursuant to Items 
+         2(d) or 2(e): |_|
+
+     6)  Citizenship or Place of Organization:       United States
+
+         Number of                               7) Sole Voting Power:    *
+         Shares Beneficially                     8) Shared Voting Power:  *
+         Owned by
+         Each Reporting                          9) Sole Dispositive Power: *
+         Person With:                           10) Shared Dispositive Power:*
+
+     11) Aggregate Amount Beneficially Owned by Each Reporting Person: 747,222*
+
+     12) Check if the Aggregate Amount in Row (11) Excludes Certain Shares: |_|
+
+     13) Percent of Class Represented by Amount in Row (11):  5.8%*
+
+     14) Type of Reporting Person:   IA; IN
+
+
+              * Blackacre  Capital Group,  L.P., a Delaware limited  partnership
+         ("Blackacre"),  is the record  holder of an  Exchangeable  Subordinated
+         Note in  principal  amount of  $4,000,000  (the  "First  Note")  and an
+         Exchangeable  Subordinated  Note in principal amount of $1,000,000 (the
+         "Second Note" and, collectively with the First Note, the "Notes"), each
+         of which were issued to  Blackacre  by FAC Realty,  Inc.  ("FAC").  The
+         Notes are convertible by the holder thereof (a) into shares of Series A
+         Convertible Preferred Stock of FAC (the "Convertible Preferred Stock"),
+         which  Convertible  Preferred Stock is convertible at the option of the
+         holder  thereof  into  shares of  common  stock of FAC and (b) upon the
+         occurrence of certain  events,  directly into shares of common stock of
+         FAC. The Notes in the aggregate are currently  convertible into 555,555
+         shares of common stock of FAC. In addition,  Blackacre  Bridge Capital,
+         L.L.C., a Delaware limited liability company ("Blackacre  Bridge"),  is
+         the record  holder of 200,000  warrants of FAC (the  "Warrants"),  each
+         Warrant  entitling the holder thereof,  at its option,  to purchase one
+         share of common stock of FAC.
+
+              Pursuant to participation  agreements  entered into with Blackacre
+         and Blackacre Bridge, (i) Cerberus  Partners,  L.P., a Delaware limited
+         partnership  ("Cerberus"),  is the owner of $1,218,000 principal amount
+         of the Notes,  which, as described  above, is convertible  into 135,333
+         shares of common stock of FAC;  (ii)  Cerberus  International,  Ltd., a
+         corporation organized under the laws of the Bahamas  ("International"),
+         is the owner of  $1,132,000  principal  amount of the  Notes,  which is
+         convertible  into 125,778  shares of common  stock of FAC;  (iii) Ultra
+         Cerberus,  Ltd., a corporation  organized under the laws of the Bahamas
+         ("Ultra"),  is the owner of  $125,000  principal  amount of the  Notes,
+         which is  convertible  into 13,889  shares of common stock of FAC; (iv)
+         Long Horizons Fund, L.P., a Delaware limited partnership  ("Horizons"),
+         is the owner of  Warrants  convertible  into  100,000  shares of common
+         stock of FAC; (v) Styx Partners,  L.P., a Delaware limited  partnership
+         ("Styx"),  is the owner of Warrants  convertible  into 96,000 shares of
+         common stock of FAC and (vi) Styx  International,  Ltd., a  corporation
+         organized under the laws of the Bahamas ("Styx International"),  is the
+         owner of Warrants convertible into 4,000 shares of common stock of FAC.
+         Jeffrey B.  Citrin,  in his  capacity  as the  president  of  Blackacre
+         Capital Management Corp. ("Blackacre Management"),  the general partner
+         of Blackacre  and the  managing  member of  Blackacre  Bridge,  possess
+         voting  and  investment  control  over the  securities  of FAC owned by
+         Blackacre, Blackacre Bridge, Cerberus, International,  Ultra, Horizons,
+         Styx and Styx International.  In addition,  $2,450,000 principal amount
+         of the Notes,  which is convertible into 272,222 shares of common stock
+         of FAC,  are owned by various  other  persons  and  entities  for which
+         Jeffrey B.  Citrin,  in his  capacity  as the  president  of  Blackacre
+         Management,  possesses certain investment authority with respect to the
+         securities of FAC. Also,  $75,000 principal amount of the Notes,  which
+         is  convertible   into  8,333  shares  of  common  stock  of  FAC,  are
+         beneficially  owned  by a  partnership  for  which  Jeffrey  B.  Citrin
+         possesses no voting or investment authority (the "Unaffiliated Fund").
+
+
+
+
+
+
+
+
+
+
+              [The remainder of this page intentionally left blank]
+
+
+
+<PAGE>
+
+
+Item 1. Security and Issuer.
+
+     This statement  relates to the Common Stock,  par value $.01 per share,  of
+FAC Realty,  Inc.  ("FAC"),  a Delaware  corporation  whose principal  executive
+offices are located at 230 North Equity Drive, Smithfield, North Carolina 27577.
+
+Item 2. Identity and Background.
+
+     The person  filing this  statement  is Jeffrey B.  Citrin,  whose  business
+address is 950 Third Avenue, 17th Floor, New York, New York 10022. Mr. Citrin is
+the president of Blackacre Capital  Management Corp.  ("Blackacre  Management"),
+the general  partner of Blackacre  Capital  Group,  L.P.  ("Blackacre")  and the
+managing member of Blackacre Bridge Capital L.L.C. ("Blackacre Bridge"), and, in
+such  capacity,  has  certain  authority  with  respect  to  investments  in the
+securities  of FAC  owned by  Cerberus  Partners,  L.P.  ("Cerberus"),  Cerberus
+International, Ltd. ("International"), Ultra Cerberus Fund, Ltd. ("Ultra"), Long
+Horizons  Fund,  L.P.   ("Horizons"),   Styx  Partners,   L.P.  ("Styx"),   Styx
+International,  Ltd. ("Styx International") and certain other private investment
+funds for which Cerberus and its affiliates possess certain investment authority
+(the  "Funds").   Jeffrey  Citrin,   Blackacre,   Blackacre  Bridge,   Cerberus,
+International,  Ultra,  Horizons,  Styx,  Styx  International  and the Funds are
+engaged in the investment in personal  property of all kinds,  including but not
+limited to capital stock,  depository  receipts,  investment  companies,  mutual
+funds,  subscriptions,  warrants,  bonds, notes,  debentures,  options and other
+securities of whatever kind and nature.
+
+     Mr. Citrin has never been convicted in any criminal proceeding,  nor has he
+been  a  party  to  any  civil   proceeding   commenced  before  a  judicial  or
+administrative body of competent  jurisdiction as a result of which he was or is
+now subject to a judgment, decree or final order enjoining future violations of,
+or prohibiting or mandating  activities  subject to, federal or state securities
+laws or finding any violation with respect to such laws. Mr. Citrin is a citizen
+of the United States.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+     All funds used to purchase the securities of FAC described herein on behalf
+of Cerberus,  International,  Ultra, Horizons,  Styx, Styx International and the
+Funds come  directly  from the net  assets of  Cerberus,  International,  Ultra,
+Horizons, Styx, Styx International and the Funds, respectively.
+
+Item 4. Purpose of Transaction.
+
+     The  acquisition  of the  securities  referred  to in Item 5 is solely  for
+investment purposes of behalf of Cerberus, International, Ultra, Horizons, Styx,
+Styx International and the Funds, respectively. Jeffrey B. Citrin has no present
+plans or intentions  which relate to or would result in any of the  transactions
+required to be described in Item 4 of Schedule 13D.
+
+     Pursuant to the Note Purchase Agreement, as amended, between, among others,
+Blackacre  Bridge and FAC pursuant to which the Notes and Warrants  were issued,
+Blackacre  and an unrelated  third party who also is the owner of  securities of
+FAC (the "Third Party") had nominated a representative  for election to serve on
+the board of  directors  of FAC (the  "Representative")  and the  Representative
+currently serves in such capacity.  In addition,  for so long as the Third Party
+and its  affiliates  beneficially  own in the aggregate 5% or more of the common
+stock of FAC (or securities  convertible  into or exercisable for such amount of
+common  stock of FAC),  FAC has  agreed to use  reasonable  efforts to cause the
+Representative  to  continue  to be  nominated  for  election  to the  board  of
+directors of FAC.
+
+Item 5. Interest in Securities of the Issuer.
+
+     Based upon information set forth in FAC's Quarterly Report on Form 10-Q for
+the  quarterly  period ended March 31, 1996, on April 30, 1996 there were issued
+and outstanding  12,026,013 shares of FAC common stock.  Blackacre is the record
+holder of an Exchangeable  Subordinated  Note in principal  amount of $4,000,000
+(the "First Note") and an Exchangeable  Subordinated Note in principal amount of
+$1,000,000  (the  "Second  Note"  and,  collectively  with the First  Note,  the
+"Notes"),  each of which were issued to  Blackacre  by FAC in April 1996.  As of
+July 22, 1996 (the "Trigger Date"),  the Notes became  convertible by the holder
+thereof  into  shares  of  Series  A  Convertible  Preferred  Stock  of FAC (the
+"Convertible Preferred Stock"), which Convertible Preferred Stock is convertible
+at the option of the holder  thereof  into shares of common  stock of FAC. As of
+the Trigger Date, the Notes in the aggregate are convertible into 555,555 shares
+of common stock of FAC. In addition,  Blackacre  Bridge is the record  holder of
+200,000  warrants of FAC (the  "Warrants"),  each Warrant  entitling  the holder
+thereof, at its option, to purchase one share of common stock of FAC.
+
+     Pursuant  to  participation  agreements  entered  into with  Blackacre  and
+Blackacre  Bridge,  (i) Cerberus is the owner of $1,218,000  principal amount of
+the Notes, which is convertible into 135,333 shares of common stock of FAC; (ii)
+International is the owner of $1,132,000 principal amount of the Notes, which is
+convertible into 125,778 shares of common stock of FAC; (iii) Ultra is the owner
+of $125,000  principal  amount of the Notes,  which is  convertible  into 13,889
+shares  of  common  stock  of  FAC;  (iv)  Horizons  is the  owner  of  Warrants
+convertible into 100,000 shares of common stock of FAC; (v) Styx is the owner of
+Warrants  convertible  into 96,000  shares of common  stock of FAC and (vi) Styx
+International  is the owner of Warrants  convertible into 4,000 shares of common
+stock of FAC.  Jeffrey B. Citrin,  in his capacity as the president of Blackacre
+Management,  the  general  partner  of  Blackacre  and the  managing  member  of
+Blackacre Bridge,  possess voting and investment  control over the securities of
+FAC  owned by  Blackacre,  Blackacre  Bridge,  Cerberus,  International,  Ultra,
+Horizons, Styx and Styx International.  In addition, $2,450,000 principal amount
+of the Notes,  which is convertible  into 272,222 shares of common stock of FAC,
+are owned by various other persons and entities for which Jeffrey B. Citrin,  in
+his  capacity  as the  president  of  Blackacre  Management,  possesses  certain
+investment  authority  with  respect to the  securities  of FAC.  Also,  $75,000
+principal amount of the Notes,  which is convertible into 8,333 shares of common
+stock of FAC,  are  beneficially  owned by a  partnership  for which  Jeffrey B.
+Citrin possesses no voting or investment authority (the "Unaffiliated Fund").
+
+     Therefore,  pursuant  to Rule  13d-3,  Jeffrey  B.  Citrin is deemed to own
+747,222 of 12,773,235 shares of common stock of FAC deemed outstanding,  or 5.8%
+of the total deemed outstanding.
+
+    There were no  transactions  in shares of common  stock of FAC or securities
+convertible into shares of common stock of FAC during the past sixty days by any
+of Jeffrey B. Citrin,  Blackacre,  Blackacre  Bridge,  Cerberus,  International,
+Ultra, Horizons, Styx, Styx International or the Funds.
+
+Item 6. Contracts, Arrangements, Understandings or Relationships With Respect to
+        Securities of the Issuer.
+
+     Except as set forth herein, no contracts,  arrangements,  understandings or
+similar  relationships  exists  with  respect  to any of the  securities  of FAC
+between Jeffrey A. Citrin and any person or entity.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         Not Applicable.
+
+                                    Signature
+
+                  After reasonable  inquiry and to the best of the undersigned's
+knowledge and belief,  the undersigned hereby certifies that the information set
+forth in this statement is true, complete and correct.
+
+
+July 31, 1996
+
+                                            /s/ Jeffrey B. Citrin
+                                            _________________________
+                                            Jeffrey B.  Citrin,  in his capacity
+                                            as  the   president   of   Blackacre
+                                            Capital    Management   Corp.,   the
+                                            general partner of Blackacre Capital
+                                            Group,  L.P. and the managing member
+                                            of Blackacre Bridge Capital, L.L.C.
+
+
+ATTENTION:  INTENTIONAL MISTATEMENTS OR OMISSIONS OF FACT CONSTITUTE FEDERAL
+CRIMINAL VIOLATIONS (SEE 18 U.S.C.1001)
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

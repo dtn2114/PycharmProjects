@@ -1,0 +1,971 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mp1uqovB0It6L9+HfSxIGn2H6AWaI63X2hskSh9DMMrI3RxiIVP6A0QRiOZnld2Y
+ +4JHVAewAXAuElvyKyat5g==
+
+<SEC-DOCUMENT>0000932384-01-500037.txt : 20010629
+<SEC-HEADER>0000932384-01-500037.hdr.sgml : 20010629
+ACCESSION NUMBER:		0000932384-01-500037
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20010628
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERIVEST PROPERTIES INC
+		CENTRAL INDEX KEY:			0000927102
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				841240264
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-53847
+		FILM NUMBER:		1669716
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800 GLENARM PLACE
+		STREET 2:		SUITE 500
+		CITY:			DENVER,
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		3032971800
+
+	MAIL ADDRESS:	
+		STREET 1:		7100 GRANDVIEW AVE
+		STREET 2:		SUITE 1
+		CITY:			ARVADA
+		STATE:			CO
+		ZIP:			80002
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATKINS WILLIAM T
+		CENTRAL INDEX KEY:			0001093678
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE SHERIDAN GROUP
+		STREET 2:		1800 GLENARM PLACE SUITE 500
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		3032971800
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE SHERIDAN GROUP
+		STREET 2:		1800 GLENARM PLACE SUITE 500
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>a379403.txt
+<DESCRIPTION>ATKINS, ET AL.; 6/01
+<TEXT>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+                                             ----------------------------------
+                                                         OMB APPROVAL
+                                             ----------------------------------
+                                             OMB Number:              3235-0145
+                                             Expires:          October 31, 2002
+                                             Estimated average burden
+                                             hours per response...........14.90
+                                             ----------------------------------
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                  UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+
+                           AmeriVest Properties, Inc.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                          Common Stock, Par Value $.001
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    03071L101
+- -------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+- -------------------------------------------------------------------------------
+                          William T. Atkins, et al.
+                       1780 S. Bellaire Street, Suite 515
+                                Denver, CO 80222
+                                  303-297-1800
+- -------------------------------------------------------------------------------
+         (Name, Address and Telephone Number of Person Authorized to
+                     Receive Notices and Communications)
+
+                                  June 28, 2001
+- -------------------------------------------------------------------------------
+           (Date of Event which Requires Filing of this Statement)
+
+      If the filing person has previously filed a statement on Schedule 13G to
+      report the acquisition that is the subject of this Schedule 13D, and is
+      filing this schedule because of Sections 240.13d-1(e), 240.13d-1(f) or
+      240.13d-1(g), check the following box. / /
+
+      NOTE: Schedules filed in paper format shall include a signed original and
+      five copies of this schedule, including all exhibits. See ss. 240.13d-7
+      for other parties to whom copies are to be sent.
+
+      *The remainder of this cover page shall be filled out for a reporting
+      person's initial filing on this form with respect to the subject class of
+      securities, and for any subsequent amendment containing information which
+      would alter disclosures provided in a prior cover page.
+
+      The information required on the remainder of this cover page shall not be
+      deemed to be "filed" for the purpose of Section 18 of the Securities
+      Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of
+      that section of the Act but shall be subject to all other provisions of
+      the Act (however, see the Notes).
+
+
+        PERSONS WHO RESPOND TO THE COLLECTION OF INFORMATION CONTAINED IN
+        THIS FORM ARE NOT REQUIRED TO RESPOND UNLESS THE FORM DISPLAYS A
+        CURRENTLY VALID OMB CONTROL NUMBER.
+
+SEC 1746 (03-00)
+
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+   1     NAME OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)
+
+            William T. Atkins
+- --------------------------------------------------------------------------------
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                    (a) |X|
+                                                                    (b) |_|
+- --------------------------------------------------------------------------------
+   3     SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4     SOURCE OF FUNDS (See Instructions)
+
+            00
+- --------------------------------------------------------------------------------
+   5     CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                                 |_|
+
+- --------------------------------------------------------------------------------
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            US
+- --------------------------------------------------------------------------------
+       NUMBER OF           7     SOLE VOTING POWER
+
+         SHARES                    41,673
+                          ------------------------------------------------------
+      BENEFICIALLY         8     SHARED VOTING POWER
+
+        OWNED BY                   1,365,901
+                          ------------------------------------------------------
+          EACH             9     SOLE DISPOSITIVE POWER
+
+       REPORTING                   41,673
+                          ------------------------------------------------------
+         PERSON            10    SHARED DISPOSITIVE POWER
+
+          WITH                     1,365,901
+- --------------------------------------------------------------------------------
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+            1,407,574
+- --------------------------------------------------------------------------------
+  12     CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES (See Instructions)                                       |_|
+
+            /
+- --------------------------------------------------------------------------------
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            32.4%
+- --------------------------------------------------------------------------------
+  14      TYPE OF REPORTING PERSON (See Instructions)
+
+            IN
+- --------------------------------------------------------------------------------
+
+
+                                       2
+
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+   1     NAME OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)
+
+            Alexander S. Hewitt
+- --------------------------------------------------------------------------------
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                    (a) |X|
+                                                                    (b) |_|
+- --------------------------------------------------------------------------------
+   3     SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4     SOURCE OF FUNDS (See Instructions)
+
+            00
+- --------------------------------------------------------------------------------
+   5     CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                                 |_|
+
+- --------------------------------------------------------------------------------
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            US
+- --------------------------------------------------------------------------------
+       NUMBER OF           7     SOLE VOTING POWER
+
+         SHARES                    59,794
+                          ------------------------------------------------------
+      BENEFICIALLY         8     SHARED VOTING POWER
+
+        OWNED BY                   1,365,901
+                          ------------------------------------------------------
+          EACH             9     SOLE DISPOSITIVE POWER
+
+       REPORTING                   59,794
+                          ------------------------------------------------------
+         PERSON            10    SHARED DISPOSITIVE POWER
+
+          WITH                     1,365,901
+- --------------------------------------------------------------------------------
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+            1,425,695
+- --------------------------------------------------------------------------------
+  12     CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES (See Instructions)                                       |_|
+
+            /
+- --------------------------------------------------------------------------------
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            32.9%
+- --------------------------------------------------------------------------------
+  14      TYPE OF REPORTING PERSON (See Instructions)
+
+            IN
+- --------------------------------------------------------------------------------
+
+
+                                       3
+
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+   1     NAME OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)
+
+            Sheridan Investments, LLC
+- --------------------------------------------------------------------------------
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                    (a) | |
+                                                                    (b) |_|
+- --------------------------------------------------------------------------------
+   3     SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4     SOURCE OF FUNDS (See Instructions)
+
+            00
+- --------------------------------------------------------------------------------
+   5     CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                                 |_|
+
+- --------------------------------------------------------------------------------
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            Delaware
+- --------------------------------------------------------------------------------
+       NUMBER OF           7     SOLE VOTING POWER
+
+         SHARES                    1,057,346
+                          ------------------------------------------------------
+      BENEFICIALLY         8     SHARED VOTING POWER
+
+        OWNED BY                   0
+                          ------------------------------------------------------
+          EACH             9     SOLE DISPOSITIVE POWER
+
+       REPORTING                   1,057,346
+                          ------------------------------------------------------
+         PERSON            10    SHARED DISPOSITIVE POWER
+
+          WITH                     0
+- --------------------------------------------------------------------------------
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+            1,057,346
+- --------------------------------------------------------------------------------
+  12     CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES (See Instructions)                                       |_|
+
+            /
+- --------------------------------------------------------------------------------
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            24.2%
+- --------------------------------------------------------------------------------
+  14      TYPE OF REPORTING PERSON (See Instructions)
+
+            CO
+- --------------------------------------------------------------------------------
+
+
+                                       4
+
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+   1     NAME OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)
+
+            Sheridan Development, LLC
+- --------------------------------------------------------------------------------
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                    (a) | |
+                                                                    (b) |_|
+- --------------------------------------------------------------------------------
+   3     SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4     SOURCE OF FUNDS (See Instructions)
+
+            00
+- --------------------------------------------------------------------------------
+   5     CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                                 |_|
+
+- --------------------------------------------------------------------------------
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            Delaware
+- --------------------------------------------------------------------------------
+       NUMBER OF           7     SOLE VOTING POWER
+
+         SHARES                    1,057,346
+                          ------------------------------------------------------
+      BENEFICIALLY         8     SHARED VOTING POWER
+
+        OWNED BY                   0
+                          ------------------------------------------------------
+          EACH             9     SOLE DISPOSITIVE POWER
+
+       REPORTING                   1,057,346
+                          ------------------------------------------------------
+         PERSON            10    SHARED DISPOSITIVE POWER
+
+          WITH                     0
+- --------------------------------------------------------------------------------
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+            1,057,346
+- --------------------------------------------------------------------------------
+  12     CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES (See Instructions)                                       |_|
+
+            /
+- --------------------------------------------------------------------------------
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            24.2%
+- --------------------------------------------------------------------------------
+  14      TYPE OF REPORTING PERSON (See Instructions)
+
+            HC, CO
+- --------------------------------------------------------------------------------
+
+
+                                       5
+
+<PAGE>
+
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+   1     NAME OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)
+
+            Sheridan Realty Partners, L.P.
+- --------------------------------------------------------------------------------
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                    (a) | |
+                                                                    (b) | |
+- --------------------------------------------------------------------------------
+   3     SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4     SOURCE OF FUNDS (See Instructions)
+
+            00
+- --------------------------------------------------------------------------------
+   5     CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                                 |_|
+
+- --------------------------------------------------------------------------------
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            Delaware
+- --------------------------------------------------------------------------------
+       NUMBER OF           7     SOLE VOTING POWER
+
+         SHARES                    205,221
+                          ------------------------------------------------------
+      BENEFICIALLY         8     SHARED VOTING POWER
+
+        OWNED BY                   0
+                          ------------------------------------------------------
+          EACH             9     SOLE DISPOSITIVE POWER
+
+       REPORTING                   205,221
+                          ------------------------------------------------------
+         PERSON            10    SHARED DISPOSITIVE POWER
+
+          WITH                     0
+- --------------------------------------------------------------------------------
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+            205,221
+- --------------------------------------------------------------------------------
+  12     CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES (See Instructions)                                       |_|
+
+            /
+- --------------------------------------------------------------------------------
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            4.7%
+- --------------------------------------------------------------------------------
+  14      TYPE OF REPORTING PERSON (See Instructions)
+
+            PN
+- --------------------------------------------------------------------------------
+
+
+                                       6
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+   1     NAME OF REPORTING PERSONS
+         I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (entities only)
+
+            Sheridan Realty Corp.
+- --------------------------------------------------------------------------------
+   2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)
+                                                                    (a) | |
+                                                                    (b) | |
+- --------------------------------------------------------------------------------
+   3     SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4     SOURCE OF FUNDS (See Instructions)
+
+            00
+- --------------------------------------------------------------------------------
+   5     CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                                 |_|
+
+- --------------------------------------------------------------------------------
+   6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            Delaware
+- --------------------------------------------------------------------------------
+       NUMBER OF           7     SOLE VOTING POWER
+
+         SHARES                    205,221
+                          ------------------------------------------------------
+      BENEFICIALLY         8     SHARED VOTING POWER
+
+        OWNED BY                   0
+                          ------------------------------------------------------
+          EACH             9     SOLE DISPOSITIVE POWER
+
+       REPORTING                   205,221
+                          ------------------------------------------------------
+         PERSON            10    SHARED DISPOSITIVE POWER
+
+          WITH                     0
+- --------------------------------------------------------------------------------
+  11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+            205,221
+- --------------------------------------------------------------------------------
+  12     CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES (See Instructions)                                       |_|
+
+            /
+- --------------------------------------------------------------------------------
+  13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            4.7%
+- --------------------------------------------------------------------------------
+  14      TYPE OF REPORTING PERSON (See Instructions)
+
+            HC, CO
+- --------------------------------------------------------------------------------
+
+
+                                       7
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- --------------------------------------------------------------------------------
+
+ITEM 1.     SECURITY AND ISSUER.
+
+This statement relates to the common stock, $0.001 par value of AmeriVest
+Properties, Inc., a Maryland corporation, having its executive offices at 1780
+S. Bellaire Street, Suite 515, Denver, CO 80222.
+
+ITEM 2.     IDENTITY AND BACKGROUND.
+
+The persons filing this statement are:
+
+(a)  William T. Atkins, a United States citizen, whose business address is 1780
+     S. Bellaire Street, Suite 515, Denver, CO 80222. Mr. Atkins is the
+     President of Sheridan Realty Corp., 1780 S. Bellaire Street, Suite 515,
+     Denver, CO 80222. The principal business of Sheridan Realty Corp. is real
+     estate investment, development and management. Mr. Atkins is also Chairman
+     and CEO of the Issuer.
+
+(b)  Alexander S. Hewitt, a United States citizen, whose business address is
+     1780 S. Bellaire Street, Suite 515, Denver, CO 80222. Mr. Hewitt is an
+     Executive Vice President of Sheridan Realty Corp., 1780 S. Bellaire Street,
+     Suite 515, Denver, CO 80222. The principal business of Sheridan Realty
+     Corp. is real estate investment, development and management. Mr. Hewitt is
+     a Vice Chairman and a Vice President of the Issuer.
+
+(c)   Sheridan Investments, LLC, a Delaware limited liability company ("SI"),
+      whose business address is 1780 S. Bellaire Street, Suite 515, Denver, CO
+      80222. The principal business of SI is real estate investment,
+      development, and management.
+
+(d)   Sheridan Development, LLC, a Delaware limited liability company ("SD"),
+      whose business address is 1780 S. Bellaire Street, Suite 515, Denver, CO
+      80222. The principal business of SD is real estate investment,
+      development, and management. SD is the manager of SI. Mr. Atkins and Mr.
+      Hewitt are co-managers of SD.
+
+(e)   Sheridan Realty Partners,  L.P., a Delaware limited partnership ("SRP"),
+      whose business  address is 1780 S. Bellaire  Street,  Suite 515, Denver,
+      CO 80222.  The  principal  business  of SRP is real  estate  investment,
+      development, and management.
+
+(f)   Sheridan Realty Corporation, a Delaware corporation ("SRC"), whose
+      business address is 1780 S. Bellaire Street, Suite 515, Denver, CO 80222.
+      The principal business of SRC is real estate investment, development, and
+      management. SRC is the general partner of SRP.
+
+During the last five years, neither Mr. Atkins, Mr. Hewitt, SI, SD, SRP, nor SRC
+has (i) been convicted in a criminal proceeding (excluding traffic violations or
+similar misdemeanors) or (ii) been a party to a civil proceeding of a judicial
+or administrative body of competent jurisdiction making either one of them
+subject to a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities laws
+or finding any violation with respect to such laws.
+
+
+                                       8
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+ITEM 3.     SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+The transactions covered by this statement include:
+
+(a)  the receipt of common stock from Issuer on December 26, 2000, as
+     consideration in exchange for the purchase of a key man insurance policy
+     issued with respect to Mr. Atkins to SI.
+
+(b)  the receipt of common stock from Issuer on June 25, 2001, as
+     consideration in exchange for the interest in an office building from SI.
+
+(c)  the receipt of common stock under the Issuer's dividend reinvestment plan
+     with respect to some or all of these transactions and other previously
+     disclosed transactions.
+
+ITEM 4.     PURPOSE OF TRANSACTION.
+
+The purpose of this transaction is for investment. Item 3 is incorporated herein
+by reference.
+
+ITEM 5.     INTEREST IN SECURITIES OF THE ISSUER.
+
+Items 3 and 4 are incorporated herein by reference.
+
+(a)  Mr. Atkins beneficially owns and has the sole power to vote and dispose of
+     (A) 33,469 shares of Issuer common stock held by him, (B) 204 shares of
+     Issuer common stock held by his minor children, and (C) options to acquire
+     an additional 12,000 shares of Issuer common stock (of which options with
+     respect to 8,000 shares of Issuer common stock are reportable at this
+     time).
+
+(b)  Mr. Hewitt beneficially owns and has the sole power to vote and dispose of
+     59,249 shares of Issuer common stock and warrants to acquire an additional
+     545 shares of Issuer common stock.
+
+(c)  Mr. Atkins and Mr. Hewitt are each one of five directors of Rock River
+     Trust Company ("RRTC"), which beneficially owns 87,029 shares of Issuer
+     common stock, as Trustee of various trusts. RRTC is an Illinois chartered
+     trust company with a principal business address at 4709 44th Street, Suite
+     5, Rock Island, IL 61201. RRTC has not, during the last five years, been
+     convicted in a criminal proceeding nor been party to a civil proceeding of
+     a judicial or administrative body of competent jurisdiction and as a result
+     of such proceeding was or is subject to a judgment, decree or final order
+     enjoining future violations of, or prohibiting or mandating activities
+     subject to, federal or state securities laws or finding any violation with
+     respect to such laws. Neither Mr. Atkins nor Mr. Hewitt vote on any matters
+     before the RRTC board of directors regarding the acquisition, voting, or
+     disposition of such stock. Mr. Atkins and Mr. Hewitt disclaim beneficial
+     ownership in such shares.
+
+
+                                       9
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+(d)  Mr. Atkins and Mr. Hewitt are each one of five directors of and a
+     shareholder in SRC, that is the general partner of SRP. SRP owns 205,221
+     shares of Issuer common stock. Mr. Atkins and Mr. Hewitt each disclaim
+     beneficial ownership in such shares.
+
+(e)  Mr. Atkins and Mr. Hewitt are each co-manager of SD, the manager of SI. SI
+     owns 1,073,651 shares of Issuer common stock.
+
+(f)  Mr. Atkins, therefore, has sole voting power and sole investment power over
+     41,673 shares of common stock and shared voting power and shared investment
+     power over 1,365,901 shares of common stock, representing 32.4% of the sum
+     of, pursuant to Rule 13d-3(d)(I)(i), (A) 4,329,688 outstanding shares of
+     the Issuer, (B) options to acquire 8,000 shares of Issuer common stock.
+
+(g)  Mr. Hewitt, therefore, has sole voting power and sole investment power over
+     41,673 shares of common stock and shared voting power and shared investment
+     power over 1,365,901 shares of common stock, representing 32.9% of the sum
+     of, pursuant to Rule 13d-3(d)(I)(i), (A) 4,329,688 outstanding shares of
+     the Issuer, (B) warrants to acquire 545 shares of Issuer common stock.
+
+(h)  SI, therefore, has sole voting power and sole investment power over
+     1,365,901 shares of common stock, representing 24.2% of 4,329,688
+     outstanding shares of the Issuer.
+
+(i)  SD, therefore, has sole voting power and sole investment power over
+     1,365,901 shares of common stock, representing 24.2% of 4,329,688
+     outstanding shares of the Issuer.
+
+(j)  SRP, therefore, has sole voting power and investment power over 205,221
+     shares of common stock, representing 4.7% of 4,329,688 outstanding shares
+     of the Issuer.
+
+(j)  SRC, therefore, has sole voting power and investment power over 205,221
+     shares of common stock, representing 4.7% of 4,329,688 outstanding shares
+     of the Issuer.
+
+
+ITEM 6.     CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH
+            RESPECT TO SECURITIES OF THE ISSUER.
+
+(a)  Mr. Atkins and Mr. Hewitt are business associates. Because their
+     acquisition, voting, and disposition activities could cause them to be
+     deemed to be a "group" (as defined in Section 13 of the Securities Exchange
+     Act of 1934, as amended), Mr. Atkins and Mr. Hewitt have entered into an
+     agreement evidencing that, unless and until either person decides
+     otherwise, each will conduct his activities with respect to the Issuer's
+     securities as if the two of them are a "group" (as defined in Section 13 of
+     the Securities Exchange Act of 1934, as amended).
+
+(b)  Mr. Atkins and Mr. Hewitt each have also entered into a Subscription and
+     Registration Rights Agreement between himself and the Issuer.
+
+
+                                       10
+
+<PAGE>
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+(c)  Mr. Atkins is a member, chairman, and co-manager of, and Mr. Hewitt is a
+     member of, Sheridan Realty Advisers, LLC, a Colorado limited liability
+     company ("SRA"), that holds warrants to acquire 750,000 shares of Issuer
+     common stock, exercisable January 1, 2003, acquired pursuant to an
+     investment advisory agreement entered into effective January 1, 2000.
+
+(d)  Other than these three agreements, there are no contracts, arrangements,
+     understandings or relationships between the filing persons and any other
+     party with respect to any of the Issuer common stock owned by Mr. Atkins,
+     Mr. Hewitt, RRTC, SI, SD, SRC, SRP, SRA, or any other party.
+
+ITEM 7.     MATERIAL TO BE FILED AS EXHIBITS.
+
+            Exhibit 99.1:       Power of Attorney (Sheridan Investments, LLC)
+            Exhibit 99.2:       Power of Attorney (Sheridan Development, LLC)
+            Exhibit 99.3:       Joint Filing Statement
+
+
+
+                                    SIGNATURE
+
+      After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+                                    JUNE 28, 2001
+                                    -------------------------------------------
+                                    Date
+
+
+                                    /s/ Deborah J. Friedman
+                                    -------------------------------------------
+                                    Signature
+
+                                    DEBORAH J. FRIEDMAN, ATTORNEY-IN-FACT
+                                    -------------------------------------------
+                                    Name/Title
+
+                                    Power of Attorney for Mr. Atkins and
+                                    Mr. Hewitt each filed September 29, 2000
+
+                                    Power of Attorney for Sheridan Investments,
+                                    LLC and Sheridan Development, LLC, each
+                                    filed as Exhibits to this filing
+
+                                    Power of Attorney for Sheridan Realty
+                                    Partners, L.P. and Sheridan Realty
+                                    Corporation, each filed September 29, 2000
+
+
+                                       11
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>a380513.txt
+<DESCRIPTION>99.1 POA SHERIDAN INVESTMENTS
+<TEXT>
+
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+EXHIBIT 99.1
+
+
+                                POWER OF ATTORNEY
+
+KNOW ALL BY THESE PRESENTS, that Sheridan Investments, LLC, a Delaware limited
+liability company, whose signature appears below, constitutes and appoints
+Deborah J. Friedman as attorney-in-fact and agent for the undersigned solely for
+the purpose of executing reports required under Section 13 and 16 of the
+Securities and Exchange Act of 1934, and filing the same, with exhibits thereto,
+and other documents in connection therewith, with the Securities and Exchange
+Commission, thereby ratifying and confirming all that said attorney-in-fact may
+do or cause to be done by virtue hereof.
+
+Dated:  June 27, 2001
+
+
+SHERIDAN INVESTMENTS, LLC
+
+   By:   SHERIDAN DEVELOPMENT, LLC
+   Its:  Manager
+
+
+
+     By: /s/ William T. Atkins
+        ------------------------------
+     Name:  William T. Atkins
+     Title: Manager
+
+
+
+                                       12
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>a380516.txt
+<DESCRIPTION>99.2 POA SHERIDAN DEVELOPMENT
+<TEXT>
+
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+EXHIBIT 99.2
+
+
+                                POWER OF ATTORNEY
+
+KNOW ALL BY THESE PRESENTS, that Sheridan Development, LLC, a Delaware limited
+liability company, whose signature appears below, constitutes and appoints
+Deborah J. Friedman as attorney-in-fact and agent for the undersigned solely for
+the purpose of executing reports required under Section 13 and 16 of the
+Securities and Exchange Act of 1934, and filing the same, with exhibits thereto,
+and other documents in connection therewith, with the Securities and Exchange
+Commission, thereby ratifying and confirming all that said attorney-in-fact may
+do or cause to be done by virtue hereof.
+
+Dated:  June 27, 2001
+
+
+SHERIDAN DEVELOPMENT, LLC
+
+
+
+By: /s/ William T. Atkins
+    ------------------------------
+    Name:  William T. Atkins
+    Title: Manager
+
+
+
+                                       13
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>a380518.txt
+<DESCRIPTION>99.3 JOINT FILING AGREEMENT
+<TEXT>
+
+
+Schedule 13D
+CUSIP NO. 03071L101                                 AMERIVEST PROPERTIES, INC.
+- ------------------------------------------------------------------------------
+
+EXHIBIT 99.3
+
+
+                             JOINT FILING AGREEMENT
+
+In accordance with Rule 13d-1(k) promulgated under the Securities Exchange Act
+of 1934, the undersigned agree to the joint filing of a Statement on Schedule
+13G (including any and all amendments thereto) with respect to the shares of
+beneficial interest, $0.001 per share, of AmeriVest Properties, Inc., and
+further agree that this Joint Filing Agreement be included as an Exhibit
+thereto. In addition, each party to this Agreement expressly authorizes each
+other party to this Agreement to file on its behalf any and all amendments to
+such Statement.
+
+Dated:  June 28, 2001
+
+
+WILLIAM T. ATKINS                         SHERIDAN REALTY PARTNERS, L.P.
+
+
+
+By:   /S/ DEBORAH J. FRIEDMAN             By:   /S/ DEBORAH J. FRIEDMAN
+      ------------------------------            ------------------------------
+      Attorney-In-Fact                          Attorney-In-Fact
+
+
+ALEXANDER S. HEWITT                       SHERIDAN REALTY CORPORATION
+
+
+
+By:   /S/ DEBORAH J. FRIEDMAN             By:   /S/ DEBORAH J. FRIEDMAN
+      ------------------------------            ------------------------------
+      Attorney-In-Fact                          Attorney-In-Fact
+
+SHERIDAN INVESTMENTS, LLC
+
+
+
+By:   /S/ DEBORAH J. FRIEDMAN
+      ------------------------------
+      Attorney-In-Fact
+
+
+
+SHERIDAN DEVELOPMENT, LLC
+
+
+
+By:   /S/ DEBORAH J. FRIEDMAN
+      ------------------------------
+      Attorney-In-Fact
+
+
+                                       14
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

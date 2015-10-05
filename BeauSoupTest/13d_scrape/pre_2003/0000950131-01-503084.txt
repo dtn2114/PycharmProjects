@@ -1,0 +1,1012 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DVKTofQCX0XhAza9pvIrH4k+CUPI/LNrlUNQjVA41eLSr58q8NtkxHPZKOHP3W7G
+ 9/0+xN5LZk+HMgjhW9g/PQ==
+
+<SEC-DOCUMENT>0000950131-01-503084.txt : 20010827
+<SEC-HEADER>0000950131-01-503084.hdr.sgml : 20010827
+ACCESSION NUMBER:		0000950131-01-503084
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20010824
+GROUP MEMBERS:		THRALL CAR MANAGEMENT COMPANY, INC.
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			THRALL CAR MANAGEMENT CO INC
+		CENTRAL INDEX KEY:			0001157838
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				362050136
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		845 LARCH AVE.
+		CITY:			ELMHURST
+		STATE:			IL
+		ZIP:			60126
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRINITY INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000099780
+		STANDARD INDUSTRIAL CLASSIFICATION:	RAILROAD EQUIPMENT [3743]
+		IRS NUMBER:				750225040
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-20249
+		FILM NUMBER:		1722181
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2525 STEMMONS FREEWAY
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75207-2401
+		BUSINESS PHONE:		2146314420
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRINITY STEEL CO INC
+		DATE OF NAME CHANGE:	19720407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>dsc13d.txt
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C.  20549
+
+                                     _____
+
+                                 SCHEDULE 13D
+                                (Rule 13d-101)
+
+                    INFORMATION TO BE INCLUDED IN STATEMENT
+                FILED PURSUANT TO RULE 13d-1(a) AND AMENDMENTS
+                    THERETO FILED PURSUANT TO RULE 13d-2(a)
+
+                           Trinity Industries, Inc.
+                               (Name of Issuer)
+
+                         Common Stock, $1.00 par value
+                        (Title of Class of Securities)
+
+                                  896522-10-9
+                                (CUSIP Number)
+
+                              Craig J. Duchossois
+                      Thrall Car Management Company, Inc.
+                               845 Larch Avenue
+                           Elmhurst, Illinois 60126
+                                (603) 279-3600
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+                                August 13, 2001
+                     (Date of Event Which Requires Filing
+                              of This Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the following box
+[_].
+
+                        (Continued on following pages)
+                             (Page 1 of 20 Pages)
+<PAGE>
+CUSIP NO. 896522-10-9                     13D                Page 2 of 20 Pages
+
+- ------------------------------------------------------------------------------
+      NAME OF REPORTING PERSON
+ 1    I.R.S. IDENTIFICATION NO. OF ABOVE PERSON (ENTITIES ONLY)
+
+      Thrall Car Management Company, Inc.
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+
+- ------------------------------------------------------------------------------
+      SOURCE OF FUNDS*
+ 4
+      00
+- ------------------------------------------------------------------------------
+      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+      TO ITEM 2(d) or 2(e)
+ 5                                                                      [_]
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 6
+      Delaware
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7
+     NUMBER OF
+                          7,150,000 (See Item 5)
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8
+
+     OWNED BY             600,000 (See Item 5)
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9
+    REPORTING
+                          7,150,000 (See Item 5)
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10
+                          600,000 (See Item 5)
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+11
+
+      7,750,000 (See Item 5)
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+12
+                                                                         [_]
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+13
+      17.6% (See Item 5)
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+14
+      CO
+- ------------------------------------------------------------------------------
+
+
+<PAGE>
+
+CUSIP NO. 896522-10-9                     13D                Page 3 of 20 Pages
+
+- ------------------------------------------------------------------------------
+      NAME OF REPORTING PERSON
+ 1    I.R.S. IDENTIFICATION NO. OF ABOVE PERSON (ENTITIES ONLY)
+
+      Craig J. Duchossois
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+
+- ------------------------------------------------------------------------------
+      SOURCE OF FUNDS*
+ 4
+      00
+- ------------------------------------------------------------------------------
+      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+      TO ITEM 2(d) or 2(e)
+ 5                                                                      [_]
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 6
+      U.S. Citizen
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7
+     NUMBER OF
+                          150
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8
+
+     OWNED BY             7,750,000 (See Item 5)
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9
+    REPORTING
+                          150
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10
+                          7,750,000 (See Item 5)
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+11
+
+      7,750,150 (See Item 5)
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+12
+                                                                         [_]
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+13
+      17.6% (See Item 5)
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+14
+      IN
+- ------------------------------------------------------------------------------
+
+<PAGE>
+
+Item 1.    Security and Issuer.
+           -------------------
+
+     This Schedule 13D relates to the common stock, par value $1.00 per share
+(the "Common Stock"), of Trinity Industries, Inc., a Delaware corporation (the
+"Issuer"). The principal executive offices of the Issuer are located at 2525
+Stemmons Freeway, Dallas, Texas 75207.
+
+Item 2.  Identity and Background.
+         -----------------------
+
+     This statement is being filed by (i) Thrall Car Management Company, Inc., a
+Delaware corporation ("Management Company"), and (ii) Craig J. Duchossois.
+
+     Management Company, through its subsidiaries, engages in the manufacture of
+rail cars. As described more fully in Item 6, the Issuer, in connection with the
+transactions reported in this Schedule 13D, is acquiring certain direct and
+indirect subsidiaries of Management Company that manufacture rail cars. The
+address of Management Company's principal business and principal office is 845
+Larch Avenue, Elmhurst, Illinois 60126. Appendix A hereto, which is incorporated
+herein by this reference, sets forth the name, business address, present
+principal occupation or employment (and the name, principal business and address
+of any corporation or other organization in which such employment is conducted)
+and the citizenship of the directors, executive officers and control persons of
+Management Company.
+
+     Craig J. Duchossois is principally employed as the Chief Executive Officer
+of Duchossois Industries, Inc. His business address is 845 Larch Avenue,
+Elmhurst, Illinois 60126. He is a citizen of the United States. The principal
+address of Duchossois Industries, Inc., an Illinois corporation, is 845 Larch
+Avenue, Elmhurst, Illinois 60126. Duchossois Industries, Inc., through its
+subsidiaries, engages in the manufacture of commercial and consumer access
+control devices and precision machined metal products, and has interests in
+entertainment and venture capital.
+
+     During the last five years, neither Management Company nor Craig J.
+Duchossois, and, to the best knowledge of either of them, none of the persons
+listed on Appendix A attached hereto, has been (i) convicted in a criminal
+proceeding (excluding traffic violations or similar misdemeanors) or (ii) a
+party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction and as a result of such proceeding was or is subject to a judgment,
+decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+
+Item 3.   Source and Amount of Funds or Other Consideration.
+          -------------------------------------------------
+
+          The response to Item 6 is incorporated herein by this reference.
+
+          Pursuant to the Agreement and Plan of Merger, dated as of August 13,
+2001 (the "Merger Agreement"), among the Issuer, TCMC Acquisition Corp., an
+Illinois corporation ("Merger Sub"), Thrall Car Manufacturing Company, an
+Illinois corporation and a wholly owned subsidiary of Management Company
+("Manufacturing Company"), and Management Company, the Issuer will acquire
+Manufacturing Company, and Management Company will acquire shares of the Issuer,
+all as more fully described in Item 6. The 600,000 shares of Common Stock
+
+                                       4
+<PAGE>
+
+currently held by Company were acquired with Manufacturing Company's
+working capital.
+
+Item 4.  Purpose of Transaction.
+         ----------------------
+
+          The response to Item 6 is incorporated herein by this reference.
+
+          The purpose of the transaction is for most of Management Company's
+direct and indirect subsidiaries to become part of the Issuer's operations,
+while allowing Management Company to maintain an investment in the rail car
+manufacturing industry through the ownership of shares of Common Stock. Although
+Management Company may designate one nominee to the Issuer's board of directors,
+neither Management Company nor Mr. Duchossois has acquired shares of Common
+Stock with the intention of acquiring control of the Issuer. The Stockholder's
+Agreement (as defined below) will place certain restrictions on the ability of
+Management Company and its Affiliates, including Mr. Duchossois, to acquire or
+dispose of securities of the Issuer.
+
+          The foregoing response to this Item 4 is qualified in its entirety by
+reference to the Merger Agreement and the form of Stockholder's Agreement to be
+entered into by the Issuer and Management Company (the "Stockholder's
+Agreement"), which are filed as Exhibits 2 and 3 hereto, respectively.
+
+Item 5.   Interest in Securities of the Issuer.
+          ------------------------------------
+
+          The response to Item 6 is incorporated herein by this reference.
+
+          Pursuant to the Merger Agreement, Management Company, for the purposes
+of Rule 13d-3 as promulgated under the Securities Exchange Act of 1934, as
+amended (the "Exchange Act"), may be deemed to beneficially own, and have sole
+voting and disposition power of, 7,150,000 shares of Common Stock. Currently,
+Manufacturing Company owns of record 600,000 shares of Common Stock, and as the
+sole shareholder of Manufacturing Company, Management Company may be deemed to
+beneficially own, and have shared voting and disposition power of, these 600,000
+shares. It is currently anticipated that Manufacturing Company will transfer
+these 600,000 shares to Management Company prior to the consummation of the
+transactions contemplated by the Merger Agreement. Management Company may be
+deemed to have shared voting and disposition power of these shares with the
+directors and executive officers of Manufacturing Company. The names of, and
+information with respect to, the directors and executive officers of
+Manufacturing Company are set forth on Appendix B to this Schedule 13D, which is
+incorporated herein by this reference. Based on a total of 44,133,562 shares of
+Common Stock outstanding (36,983,562 shares of Common Stock reported outstanding
+as of June 30, 2001, pursuant to the Issuer's Form 10-Q for the quarterly period
+ended June 30, 2001 (the "Pre-Merger Outstanding Shares") plus the 7,150,000
+shares of Common Stock to be issued to Management Company in accordance with the
+Merger Agreement (the "Merger Shares" and, collectively with the Pre-Merger
+Outstanding Shares, the "Post-Merger Outstanding Shares")), for purposes of Rule
+13d-3, Management Company may be deemed to beneficially own 17.6% of the Post-
+Merger Outstanding Shares.
+
+                                       5
+<PAGE>
+
+          By virtue of his position as a director and executive officer and, as
+described on Appendix A, his ability to vote a majority of the outstanding
+shares of Management Company, Mr. Duchossois, for purposes of Rule 13d-3, may be
+deemed to beneficially own the Merger Shares. Mr. Duchossois shares voting and
+disposition power with respect to these shares of Common Stock with the
+directors and executive officers of Management Company. The names of, and
+information with respect to, these persons are set forth on Appendix A to this
+Schedule 13D, which is incorporated herein by this reference. Similarly, by
+virtue of his positions with Management Company (which is the sole shareholder
+of Manufacturing Company) and Manufacturing Company, Mr. Duchossois, for
+purposes of Rule 13d-3, may be deemed to beneficially own the 600,000 shares
+currently owned of record by Manufacturing Company. Mr. Duchossois may be deemed
+to have shared voting and disposition power with respect to these shares with
+the directors and executive officers of Management Company, information with
+respect to which is set forth on Appendix A to this Schedule 13D and
+incorporated herein by this reference, and the directors and executive officers
+of Manufacturing Company, information with respect to which is set forth on
+Appendix B hereto and incorporated herein by this reference. The Merger Shares,
+when aggregated with the 600,000 shares of Common Stock currently owned of
+record by Manufacturing Company and 150 shares currently owned of record by Mr.
+Duchossois, would result in Mr. Duchossois being deemed to beneficially own
+7,750,150 shares of Common Stock, or 17.6% of the Post-Merger Outstanding
+Shares. Mr. Duchossois disclaims beneficial ownership of the 7,750,000 shares
+not owned of record by him.
+
+          Except as disclosed herein, neither Management Company nor Craig J.
+Duchossois has effected any transactions in shares of Common Stock during the
+preceding 60 days.
+
+Item 6.   Contracts, Arrangements, Understandings or Relationships
+          with Respect to Securities of the Issuer.
+          ----------------------------------------
+
+          The following response to this Item 6 is qualified in its entirety by
+reference to the Merger Agreement, the form of Stockholder's Agreement and the
+Form of Registration Rights Agreement to be entered into by the Issuer and
+Management Company (the "Registration Rights Agreement"), which are filed as
+Exhibits 2, 3 and 4 hereto, respectively.
+
+Merger Agreement
+- ----------------
+
+          Subject to the terms and conditions of the Merger Agreement, Merger
+Sub will be merged with and into Manufacturing Company, with Manufacturing
+Company being the surviving corporation of such merger (the "Merger"). At the
+Effective Time (as defined in the Merger Agreement) of the Merger, the issued
+and outstanding shares of common stock of the Manufacturing Company will be
+converted into the right to receive an aggregate of 7,150,000 shares of Common
+Stock, $165,550,000 (subject to adjustment as described in the Merger Agreement)
+and the right to receive additional payments, not to exceed $45,000,000 over a
+five-year period, based on a formula related to annual rail car industry
+production levels. Certain of the shares acquired by Management Company may be
+placed, but are not required to be kept, in escrow pursuant to an escrow
+agreement to be entered into between Management Company and the Issuer.
+
+                                       6
+<PAGE>
+
+     During the Standstill Time (as defined in the Merger Agreement and which
+will terminate if the transactions contemplated by the Merger Agreement close),
+except as permitted by the Issuer, neither Management Company nor Manufacturing
+Company will act alone or with others to (i) solicit proxies, become a
+participant in an election contest or influence the voting of others with
+respect to the Issuer, (ii) initiate or solicit the approval of a shareholder
+proposal with respect to the Issuer, (iii) act in concert with others with
+respect to acquiring or voting Common Stock, (iv) participate in or encourage
+the formation of any group that owns or seeks to acquire ownership of the
+Issuer's securities or control of the Issuer, (v) seek to place a representative
+on, or seek the removal of any member of, Issuer's board, (vi) call a meeting of
+the Issuer's stockholders or sign a written consent authorizing action without a
+meeting of the Issuer's stockholders, (vii) solicit or offer to effect certain
+changes in the structure or business of the Issuer, such as a merger or
+disposition of material assets of the Issuer, (viii) seek to control or
+influence the Issuer, (ix) assist or knowingly encourage any third party to take
+any of the foregoing actions, or (x) disclose or announce any intention or
+arrangement inconsistent with the foregoing.
+
+     During the Standstill Time, unless otherwise specifically provided by the
+Merger Agreement, Common Stock beneficially owned by Management Company and
+Manufacturing Company are to be voted as recommended by the Issuer's board of
+directors. Specific exceptions to this include certain strategic transactions of
+the Issuer, such as certain issuances of preferred stock, a disposition of the
+Issuer or a substantial part of the Issuer's assets, a recapitalization of the
+Issuer or a liquidation of, or consolidation involving, the Issuer.
+
+Stockholder's Agreement
+- -----------------------
+
+     The Merger Agreement provides that the Issuer and Management Company will
+enter into the Stockholder's Agreement at the Closing (as defined in the Merger
+Agreement) of the Merger.
+
+     Taking of Certain
+     -----------------
+Actions
+- -------
+
+     During the Standstill Period (as defined in the Stockholder's Agreement),
+except as permitted by the Issuer or as otherwise specifically permitted in the
+Stockholder's Agreement, Management Company, Mr. Duchossois and the Family
+Affiliates (as defined in the Stockholder's Agreement) generally agree not to
+act alone or with others to (i) solicit proxies, become a participant in an
+election contest or influence the voting of others with respect to the Issuer,
+(ii) initiate or solicit the approval of a shareholder proposal with respect to
+the Issuer, (iii) act in concert with others with respect to acquiring,
+disposing of or voting Voting Securities (as defined in the Stockholder's
+Agreement) of the Issuer, (iv) participate in or encourage the formation of any
+group that owns or seeks to acquire ownership of the Issuer's securities or
+control of the Issuer, (v) subject any Voting Securities to any arrangement that
+conflicts with or does not conform with the provisions of the Stockholder's
+Agreement, (vi) seek to place a representative on, or seek the removal of any
+member of, Issuer's board, except pursuant to Management Company's right to
+designate a nominee for election to the Issuer's board, (vii) call a meeting of
+the Issuer's stockholders or sign a written consent authorizing action without a
+meeting of the Issuer's stockholders, (viii) solicit or offer to effect certain
+changes in the
+
+                                       7
+<PAGE>
+
+structure or business of the Issuer, such as a merger or disposition of material
+assets of the Issuer, (ix) seek to control or influence the Issuer (although
+this does not prevent Management Company's designee on the board of directors
+from seeking to affect decisions of the board of directors), (x) assist or
+knowingly encourage a third party to take any of the foregoing actions, or (xi)
+disclose or announce any intention or arrangement inconsistent with the
+foregoing.
+
+     Prohibition Against a Change of Control
+     ---------------------------------------
+
+     During the Standstill Period, there shall not occur a Change of Control (as
+defined in the Stockholder's Agreement) with respect to Management Company or
+any Permitted Transferee (as defined in the Stockholder's Agreement).
+
+     Agreement To Vote
+     -----------------
+
+     Unless otherwise specifically permitted by the Stockholder's Agreement,
+Voting Securities beneficially owned by Management Company and its Affiliates
+(as defined in the Stockholder's Agreement) are to be voted as recommended by
+the Issuer's board of directors. Specific exceptions to this include certain
+strategic transactions of the Issuer, such as certain issuances of preferred
+stock, a disposition of the Issuer or a substantial part of the Issuer's assets,
+a recapitalization of the Issuer or a liquidation of, or consolidation
+involving, the Issuer.
+
+     Purchase of Additional Common Stock and Certain Issuances
+     ---------------------------------------------------------
+
+     Management Company has agreed that during the Standstill Period none of
+Management Company or any Related Person (as defined in the Stockholder's
+Agreement) or subsequent Holder (as defined in the Stockholder's Agreement) will
+acquire or propose to acquire Voting Securities except (i) in connection with
+the Merger Agreement, (ii) pursuant to certain distributions made available to
+holders of Common Stock generally, (iii) through purchases, in the open market
+or privately negotiated transactions, of up to an aggregate number of shares of
+Voting Securities which, when added to the shares of Voting Securities owned by
+Management Company, the Family Affiliates, the subsequent Holders and their
+respective Affiliates and Associates (as defined in the Stockholder's
+Agreement), with the exception of shares acquired in connection with item (iv)
+of this sentence, would result in such persons owning no more than 19.9% of the
+then-outstanding shares of Voting Securities, or (iv) with respect to Management
+Company's designee to the Issuer's board, pursuant to director stock option or
+similar plans, or as otherwise specifically permitted by the Stockholder's
+Agreement. The Standstill Period generally can last from six and one-half to ten
+years, depending on various circumstances.
+
+     With certain specified exceptions, Management Company, the Related Persons
+and the subsequent Holders may not collectively own more than 19.9% of the then-
+outstanding Voting Securities.
+
+     Restrictions on Transfer
+     ------------------------
+
+     Management Company has agreed that during the Holding Period (as defined in
+the Stockholder's Agreement), it will not transfer or encumber shares of Common
+Stock except (i) to a Related Person of Management Company or a Family
+Affiliate, each of whom must agree to be
+
+                                       8
+<PAGE>
+
+bound by the Stockholder's Agreement, or (ii) to a financial institution in
+connection with a loan so long as the pledgee agrees in writing that, upon
+transfer of the securities to the pledgee upon any foreclosure or otherwise, the
+securities will remain, and the pledgee will become, subject to the restrictions
+contained in the Stockholder's Agreement. The Holding Period generally is
+anticipated to last for two years following execution of the Stockholder's
+Agreement, with certain exceptions provided for in such agreement.
+
+     The Stockholder's Agreement also provides that, generally, after the
+Holding Period until the termination of the Standstill Period, none of
+Management Company or any subsequent Holder will transfer or encumber its
+respective shares of Common Stock except (i) to the Issuer or in a transaction
+approved by the Issuer's chief executive officer, (ii) to a Related Person with
+respect to Management Company or a Family Affiliate, if such person agrees to be
+bound by the Stockholder's Agreement, (iii) pursuant to certain tender or
+exchange offers, (iv) to a financial institution in connection with a loan so
+long as the pledgee agrees in writing that, upon transfer of the securities to
+the pledgee upon any foreclosure or otherwise, the securities will remain, and
+the pledgee will become, subject to the restrictions contained in the
+Stockholder's Agreement, (v) subject to certain limitations, to a third party
+pursuant to (a) an open market "brokers transaction" as permitted by Rule 144
+promulgated under the Securities Act of 1933, as amended (other than clause (k)
+thereof), provided the transferor does not know or reasonably believe such
+person and such person's Affiliates, or any group of which such person may be a
+member, would hold in the aggregate more than 5% of the Issuer's Voting
+Securities after such transaction or, if such person is entitled to file a
+Schedule 13G, such persons would not hold in the aggregate more than 10% of the
+Issuer's Voting Securities after such transaction (any third person who would
+hold in excess of the referenced percentages being a "Prohibited Holder"), or
+(b) a private placement to a person, other than a Competitor (as defined in the
+Stockholder's Agreement) of Issuer, that (y) Management Company or the
+subsequent Holder reasonably believes after due inquiry is not a Prohibited
+Holder and Management Company or the Prohibited Holder obtains a written
+representation to such effect or (z) agrees in writing to be bound by the
+Stockholder's Agreement and the Issuer's board approves the transaction, or (vi)
+pursuant to an underwritten public offering, in accordance with the Registration
+Rights Agreement, in which (a) the managing underwriter agrees to effect a broad
+distribution and (b) neither Management Company nor any subsequent Holder knows
+or has reasonable grounds to believe transfer will be made to a third party that
+is a Competitor or would be a Prohibited Holder.
+
+     Generally, with limited exemptions, neither Management Company nor a
+subsequent Holder is permitted to transfer Voting Securities to or encumber
+Voting Securities in favor of any Competitor of the Issuer or to a Prohibited
+Holder until after the tenth anniversary of the date of the Agreement.
+
+     In most instances, so long as Management Company and any subsequent Holders
+collectively own 8% or more of the outstanding Voting Securities, during the
+Standstill Period, neither Management Company nor any subsequent Holder may
+transfer or encumber greater than 1,000,000 shares of Common Stock in any 12-
+month period without first offering the securities to the Issuer for purchase on
+terms similar to that under which the securities would be otherwise be sold.
+
+                                       9
+<PAGE>
+
+     Board of Directors
+     ------------------
+
+     After the Closing, and at each annual meeting of stockholders of the Issuer
+prior to the termination of the Standstill Period, for so long as Management
+Company, the Family Affiliates and the subsequent Holders own in the aggregate
+more than 7.5% of the Voting Securities, the Issuer is to take necessary action
+to appoint or elect to Issuer's board one designee of Management Company.
+Initially, such designee will be Craig J. Duchossois. During the Standstill
+Period, for so long as Management Company and the subsequent Holders own in the
+aggregate 19.9% of the then outstanding Voting Securities, the holders of a
+majority of the shares held by Management Company and the subsequent Holders may
+recommend a nominee to fill a vacancy on the board of the Issuer, although the
+Issuer is not obligated to nominate such nominee.
+
+     Term
+     ----
+
+     The Stockholder's Agreement terminates on the date that the individuals who
+as of the date of the agreement constituted Issuer's board (together with any
+new directors whose election or appointment by Issuer's board or whose
+nomination for election by the Issuer's stockholders was approved by a majority
+of the directors then still in office who either were directors at the beginning
+of such period or whose election or nomination was previously so approved),
+cease to constitute a majority of the directors then in office (excluding any
+director elected pursuant to designation by Management Company). Additionally,
+the Stockholder's Agreement terminates with respect to a Holder other than
+Management Company as of the date such Holder does not own of record or
+beneficially any Voting Securities.
+
+Registration Rights Agreement
+- -----------------------------
+
+     The Merger Agreement provides that the Issuer and Management Company will
+enter into the Registration Rights Agreement at the Closing of the Merger.
+
+     After the second anniversary of the date of the Registration Rights
+Agreement, Management Company and its permitted transferees may request, on two
+occasions, that the Issuer register shares of Common Stock held by Management
+Company and its permitted transferees under the Securities Act of 1933, as
+amended. A request may cover all or part of the shares of Common Stock held by
+such person(s), but each request must apply to at least 2,500,000 shares. The
+Issuer may postpone such a registration under certain circumstances specified in
+the Registration Rights Agreement.
+
+     Additionally, if, at any time after the second anniversary of the date of
+the Registration Rights Agreement, the Issuer determines to register shares of
+Common Stock for its own account in an Underwritten Public Offering (as defined
+in the Registration Rights Agreement) and not in connection with a merger,
+acquisition, exchange offer, subscription offer, dividend reinvestment plan or
+stock option or other employee benefit plan, Management Company and its
+permitted tranferees have the right to have their shares of Common Stock
+included in such registration. The number of shares of Common Stock that
+Management Company and its permitted transferees may have so registered may be
+limited, pursuant to certain procedures, if the
+
+                                       10
+<PAGE>
+
+managing underwriter concludes that inclusion of all or part of such shares
+would materially adversely affect such offering.
+
+     The Registration Rights Agreement contains certain provisions regarding
+registration procedures to be followed, indemnification and holdback
+arrangements. Transfer of the rights under the agreement are subject to certain
+limitations. The rights granted under the agreement terminate, with respect to
+each Holder (as defined in the Registration Rights Agreement), when all shares
+of Registrable Securities (as defined in the Registration Rights Agreement) held
+by such Holder may immediately be sold under Rule 144 during any 90-day period.
+
+Item 7.  Material to be Filed as Exhibits.
+         --------------------------------
+
+     The following are filed herewith as Exhibits to this Schedule 13D.
+
+
+               Exhibit
+                  No.         Description
+               -------        -----------
+
+                 1            Joint Filing Agreement
+
+                 2            Agreement and Plan of Merger (incorporated
+                              by reference to Exhibit 2.1 to the Issuer's
+                              Form 8-K (Commission File No. 1-6903) dated
+                              filed August 16, 2001)
+
+                 3            Form of Stockholder's Agreement
+                              (incorporated by reference to Exhibit 7.1.8
+                              to the Agreement and Plan of Merger filed as
+                              Exhibit 2.1 to the Issuer's Form 8-K
+                              (Commission File No. 1-6903) filed August
+                              16, 2001)
+
+                 4            Form of Registration Rights Agreement
+                              (incorporated by reference to Exhibit 7.1.10
+                              to the Agreement and Plan of Merger filed as
+                              Exhibit 2.1 to the Issuer's Form 8-K
+                              (Commission File No. 1-6903) filed August
+                              16, 2001)
+
+                                       11
+<PAGE>
+
+                                   SIGNATURE
+
+     After reasonable inquiry, and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+Date:  August 23, 2001        THRALL CAR MANAGEMENT COMPANY, INC.
+
+
+                              By: /s/ CRAIG J. DUCHOSSOIS
+                                  --------------------------------
+                                  Name:  Craig J. Duchossois
+                                  Title: Chairman and President
+
+                                       12
+<PAGE>
+
+                                   SIGNATURE
+
+     After reasonable inquiry, and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+Date:  August 23, 2001             /s/ CRAIG J. DUCHOSSOIS
+                                  ---------------------------------
+                                  Craig J. Duchossois
+
+                                       13
+<PAGE>
+
+                                  APPENDIX A
+
+             CERTAIN INFORMATION REGARDING DIRECTORS AND EXECUTIVE
+                OFFICERS OF THRALL CAR MANAGEMENT COMPANY, INC.
+
+     Set forth below are the names, positions with Management Company, business
+addresses and principal occupations of the directors and executive officers of
+Management Company.  Each individual is a United States citizen.
+
+<TABLE>
+<CAPTION>
+     Names, Positions and Business Addresses               Present Principal Occupation
+     ---------------------------------------               ----------------------------------------------
+     <S>                                                   <C>
+     Craig J. Duchossois                                   Chief Executive Officer of Duchossois
+     Director, Chairman and President                      Industries, Inc./1/
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     Richard L. Duchossois/2/                              Chairman of Duchossois Industries, Inc./1/
+     Director and Vice Chairman
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     Robert L. Fealy                                       Chief Financial Officer of Duchossois
+     Director, Vice President and Secretary                Industries, Inc./1/
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     Michael E. Flannery                                   Chief Administrative Officer and General
+     Vice President and Assistant Secretary                Counsel of Duchossois Industries, Inc.1 and
+     845 Larch Avenue                                      Vice Chairman and General Counsel of
+     Elmhurst, IL 60126                                    Manufacturing Company/3/
+</TABLE>
+
+
+___________________
+
+/1/  The principal address of Duchossois Industries, Inc., an Illinois
+corporation, is 845 Larch Avenue, Elmhurst, IL 60126. Duchossois Industries,
+Inc., through its subsidiaries, engages in the manufacture of commercial and
+consumer access control devices and precision machined metal products, and
+has interests in entertainment and venture capital.
+
+/2/  Richard L. Duchossois owns, and has sole voting and disposition power with
+respect to, 20,000 shares of Common Stock of the Issuer, which is less than 1%
+of the shares of such Common Stock currently outstanding.
+
+/3/  The principal address of Manufacturing Company, which is an Illinois
+corporation, is 2521 State Street, Chicago Heights, IL 60411. Manufacturing
+Company and its subsidiaries engage in the manufacture of rail cars.
+
+                                       14
+<PAGE>
+
+     The shares of Management Company are owned by various individuals and
+trusts. The voting and disposition decisions of each trust are controlled by
+either a trustee, a business advisor or an investment committee. By virtue of
+his position as sole trustee or his control of a majority of the votes of the
+investment committee of certain of these trusts, Craig J. Duchossois controls a
+majority of the outstanding shares of Management Company. Information with
+respect to Craig J. Duchossois is set forth above and in the body of the
+Schedule 13D.
+
+                                       15
+<PAGE>
+
+                                  APPENDIX B
+
+             CERTAIN INFORMATION REGARDING DIRECTORS AND EXECUTIVE
+                 OFFICERS OF THRALL CAR MANUFACTURING COMPANY
+
+     Set forth below are the names, positions with Manufacturing Company,
+business addresses and principal occupations of the directors and executive
+officers of Manufacturing Company. To the best knowledge of Management Company
+and Craig J. Duchossois, none of the individuals has been (i) convicted in a
+criminal proceeding (excluding traffic violations or similar misdemeanors) or
+(ii) a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction and as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations of, or prohibiting
+or mandating activities subject to, federal or state securities laws or finding
+any violation with respect to such laws. Each individual is a United States
+citizen.
+
+<TABLE>
+<CAPTION>
+     Names, Positions and Business Addresses           Present Principal Occupation
+     ---------------------------------------           ----------------------------
+     <S>                                               <C>
+     Craig J. Duchossois                               Chief Executive Officer of Duchossois
+     Director, Chairman and Chief                      Industries, Inc./1/
+      Executive Officer
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     Richard L. Duchossois                             Chairman of Duchossois Industries, Inc./1/
+     Director and Vice Chairman
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     Robert L. Fealy                                   Chief Financial Officer of Duchossois
+     Director, Vice President and Chief                Industries, Inc./1/
+      Financial Officer
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     Michael E. Flannery                               Chief Administrative Officer and General
+     Director, Vice Chairman, General                  Counsel of Duchossois Industries, Inc./1/ and
+       Counsel and Assistant Secretary                 Vice Chairman and General Counsel of
+</TABLE>
+
+
+__________________________
+
+/1/ The principal address of Duchossois Industries, Inc., an Illinois
+corporation, is 845 Larch Avenue, Elmhurst, IL 60126. Duchossois Industries,
+Inc., through its subsidiaries, engages in the manufacture of commercial and
+consumer access control devices and precision machined metal products, and
+and has interests in entertainment and venture capital.
+
+                                       16
+<PAGE>
+
+<TABLE>
+<CAPTION>
+     Names, Positions and Business Addresses               Present Principal Occupation
+     ---------------------------------------               ----------------------------
+     <S>                                                   <C>
+     845 Larch Avenue                                      Manufacturing Company/2/
+     Elmhurst, IL  60126
+
+     Martin Graham                                         President and Chief Operating Officer of
+     Director, President and Chief                         Manufacturing Company/2/
+       Operating Officer
+     2521 State Street
+     Chicago Heights, Illinois 60411
+
+     Charles A. Mapp                                       Retired
+     Director
+     845 Larch Avenue
+     Elmhurst, IL  60126
+
+     Donald G. McInnes                                     Retired
+     Director
+     845 Larch Avenue
+     Elmhurst, IL 60126
+
+     David P. Yeager                                       Vice Chairman and Chief Executive Officer of
+     Director                                              The Hub Group, Inc./3/
+     377 East Butterfield, Suite 700
+     Lombard, Illinois 60148
+
+     Craig P. Dowden                                       Executive Vice President - Administration of
+     Executive Vice President - Administration             Manufacturing Company/2/
+     2521 State Street
+     Chicago Heights, Illinois  60411
+
+     H. Christian Schmalbruch                              President, North American Rail Car of
+     President, North American Rail Car                    Manufacturing Company/2/
+     2521 State Street
+     Chicago Heights, Illinois  60411
+</TABLE>
+
+______________________
+(continued....)
+
+/2/  The principal address of Manufacturing Company, which is an Illinois
+corporation, is 2521 State Street, Chicago Heights, IL 60411. Manufacturing
+Company and its subsidiaries engage in the manufacture of rail cars.
+
+/3/  The principal address of The Hub Group, Inc., a Delaware corporation, is
+377 East Butterfield, Suite 700, Lombard, IL 60148. The Hub Group, Inc. engages
+in intermodal marketing - logistics services.
+
+                                       17
+<PAGE>
+
+<TABLE>
+<CAPTION>
+     Names, Positions and Business Addresses           Present Principal Occupation
+     ---------------------------------------           ---------------------------
+     <S>                                               <C>
+     James C. Gerber                                   Executive Vice President - Finance of
+     Executive Vice President - Finance                Manufacturing Company/2/
+     2521 State Street
+     Chicago Heights, Illinois 60411
+</TABLE>
+
+                                       18
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+
+
+     Exhibit
+       No.          Description
+  ------------      -----------
+
+       1            Joint Filing Agreement
+
+       2            Agreement and Plan of Merger (incorporated
+                    by reference to Exhibit 2.1 to the
+                    Issuer's Form 8-K (Commission File No.
+                    1-6903) filed August 16, 2001)
+
+       3            Form of Stockholder's Agreement
+                    (incorporated by reference to Exhibit
+                    7.1.8 to the Agreement and Plan of Merger
+                    filed as Exhibit 2.1 to the Issuer's Form
+                    8-K (Commission File No. 1-6903) filed
+                    August 16, 2001)
+
+       4            Form of Registration Rights Agreement
+                    (incorporated by reference to Exhibit
+                    7.1.10 to the Agreement and Plan of Merger
+                    filed as Exhibit 2.1 to the Issuer's Form
+                    8-K (Commission File No. 1-6903) filed
+                    August 16, 2001)
+
+                                      19
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>3
+<FILENAME>dex1.txt
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                       Exhibit 1
+                                                                       ---------
+
+                            JOINT FILING AGREEMENT
+                            ----------------------
+
+     In connection with the beneficial ownership of shares of common stock,
+$1.00 par value, of Trinity Industries, Inc., Thrall Car Management Company,
+Inc., a Delaware corporation, and Craig J. Duchossois hereby agree to the joint
+filing on behalf of such persons of all filings, including the filing of a
+Schedule 13D and all amendments thereto under the Securities Exchange Act of
+1934, as amended (the "Exchange Act"), required under the Exchange Act pursuant
+to which joint filing statements are permitted.
+
+     IN WITNESS WHEREOF, the undersigned have caused this Joint Filing Agreement
+to be executed as of August 23, 2001.
+
+                                 THRALL CAR MANAGEMENT COMPANY, INC.
+
+
+
+                                 By:   /s/ CRAIG J. DUCHOSSOIS
+                                     -------------------------
+                                     Name: Craig J. Duchossois
+                                     Title: Chairman and President
+
+
+
+                                 /s/ CRAIG J. DUCHOSSOIS
+                                 ------------------------------
+                                 Craig J. Duchossois
+
+
+
+                                      20
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

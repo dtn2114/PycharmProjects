@@ -1,0 +1,535 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BMJqQI0ZjnkUJRBU6fmf1iUHe4TyZ2zmVDresbM2LIBrLELRrtuoLfm64Zt0AFuX
+ Xe7rEEiw9ADzLNC9dJk44w==
+
+<SEC-DOCUMENT>0000950120-04-000694.txt : 20041025
+<SEC-HEADER>0000950120-04-000694.hdr.sgml : 20041025
+<ACCEPTANCE-DATETIME>20041025170751
+ACCESSION NUMBER:		0000950120-04-000694
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20041025
+DATE AS OF CHANGE:		20041025
+GROUP MEMBERS:		VERUS INTERNATIONAL GROUP LIMITED
+GROUP MEMBERS:		VERUS INVESTMENT HOLDINGS, INC.
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KHAN AJMAL
+		CENTRAL INDEX KEY:			0001092446
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		LAURISTON HOUSE SUITE 101
+		CITY:			ST MICHAEL BARBADOS
+		STATE:			C8
+
+	MAIL ADDRESS:	
+		STREET 1:		LAURISTON HOUSE SUITE 101
+		CITY:			ST MICHAEL BARBADOS
+		STATE:			C8
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIOMED HOLDINGS INC
+		CENTRAL INDEX KEY:			0001074874
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				841480636
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78121
+		FILM NUMBER:		041094628
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 DUNDEE PARK
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+		BUSINESS PHONE:		978-475-7771
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATEXCO CORP
+		DATE OF NAME CHANGE:	20001128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>d624985.txt
+<DESCRIPTION>SCHEDULE 13D/A, AMENDMENT #7
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. 7)*
+
+
+                              DIOMED HOLDINGS, INC.
+                              ---------------------
+                                (Name of Issuer)
+
+
+                    Common Stock, par value $0.001 per share
+                    ----------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    25454R207
+                                    ---------
+                                 (CUSIP Number)
+
+
+                                 Mr. Ajmal Khan
+                      c/o Verus International Group Limited
+                               20 West 55th Street
+                            New York, New York 10019
+                            ------------------------
+          (Name, Address, and Telephone Number of Person Authorized to
+                       Receive Notices and Communications)
+
+
+                                  June 10, 2003
+                                  -------------
+             (Date of Event which Requires Filing of This Statement)
+
+          If the filing person has previously filed a statement on Schedule 13G
+to report the acquisition that is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the
+following box. /_/
+
+          Note. Schedules filed in paper format shall include a signed original
+     and five copies of the schedule, including all exhibits. See Rule 13d-7 for
+     other parties to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 or otherwise subject to the liabilities of that section of the Act but
+shall be subject to all other provisions of the Act (however, see the Notes).
+
+
+<PAGE>
+
+
+- --------------------------------------------------------------------------------
+CUSIP No. 25454R207
+- --------------------------------------------------------------------------------
+       1        NAME OF REPORTING PERSONS I.R.S.             Ajmal Khan
+                IDENTIFICATION NO. OF ABOVE PERSON
+- --------------------------------------------------------------------------------
+       2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                             (a) |_|
+                                                             (b) |X|
+- --------------------------------------------------------------------------------
+       3        SEC USE ONLY
+- --------------------------------------------------------------------------------
+       4        SOURCE OF FUNDS     N/A
+- --------------------------------------------------------------------------------
+       5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+                REQUIRED PURSUANT TO ITEM 2(d) or 2(e)
+                |_|
+
+- --------------------------------------------------------------------------------
+       6        CITIZENSHIP OR PLACE OF ORGANIZATION
+                Canada and United Kingdom
+- --------------------------------------------------------------------------------
+
+ NUMBER OF           7        SOLE VOTING POWER              1,466,491*
+  SHARES        ----------------------------------------------------------------
+BENEFICIALLY         8        SHARES VOTING POWER
+  OWNED BY      ----------------------------------------------------------------
+    THE              9        SOLE DISPOSITIVE POWER         1,466,491*
+ REPORTING      ----------------------------------------------------------------
+PERSON WITH         10        SHARED DISPOSITIVE POWER
+
+- --------------------------------------------------------------------------------
+      11        AGGREGATE AMOUNT BENEFICIALLY OWNED BY       1,466,491*
+                THE REPORTING PERSON
+- --------------------------------------------------------------------------------
+      12        CHECK BOX IF THE AGGREGATE AMOUNT IN ROW     |_|
+                (11) EXCLUDES CERTAIN SHARES
+- --------------------------------------------------------------------------------
+      13        PERCENT OF CLASS REPRESENTED BY AMOUNT
+                IN ROW (11)                                  4.9%
+- --------------------------------------------------------------------------------
+      14        TYPE OF REPORTING PERSON                     IN
+- --------------------------------------------------------------------------------
+*Through his position as the majority owner of Verus International Group Limited
+and Verus Investment Holdings, Inc., Mr. Khan has the power to dispose of or
+direct the disposition of the shares of Common Stock. As a result, Mr. Khan may,
+under the rules of the Securities and Exchange Commission, be deemed to be the
+
+
+                                       2
+<PAGE>
+
+
+beneficial owner of the shares of Common Stock. Mr. Khan disclaims beneficial
+ownership of the shares of Common Stock reported as beneficially owned by him,
+except to the extent of his pecuniary interest therein.
+
+
+                                       3
+<PAGE>
+
+
+- --------------------------------------------------------------------------------
+CUSIP No. 25454R207
+- --------------------------------------------------------------------------------
+       1        NAME OF REPORTING PERSONS I.R.S.             Verus International
+                IDENTIFICATION NO. OF ABOVE PERSON           Group Limited
+- --------------------------------------------------------------------------------
+       2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                             (a) |_|
+                                                             (b) |X|
+- --------------------------------------------------------------------------------
+       3        SEC USE ONLY
+- --------------------------------------------------------------------------------
+       4        SOURCE OF FUNDS     N/A
+- --------------------------------------------------------------------------------
+       5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+                REQUIRED PURSUANT TO ITEM 2(d) or 2(e)
+                |_|
+
+- --------------------------------------------------------------------------------
+       6        CITIZENSHIP OR PLACE OF ORGANIZATION
+                British Virgin Islands
+- --------------------------------------------------------------------------------
+
+ NUMBER OF           7        SOLE VOTING POWER              125,900
+  SHARES        ----------------------------------------------------------------
+BENEFICIALLY         8        SHARES VOTING POWER
+  OWNED BY      ----------------------------------------------------------------
+    THE              9        SOLE DISPOSITIVE POWER         125,900
+ REPORTING      ----------------------------------------------------------------
+PERSON WITH         10        SHARED DISPOSITIVE POWER
+
+- --------------------------------------------------------------------------------
+      11        AGGREGATE AMOUNT BENEFICIALLY OWNED BY       125,900
+                THE REPORTING PERSON
+- --------------------------------------------------------------------------------
+      12        CHECK BOX IF THE AGGREGATE AMOUNT IN ROW     |_|
+                (11) EXCLUDES CERTAIN SHARES
+- --------------------------------------------------------------------------------
+      13        PERCENT OF CLASS REPRESENTED BY AMOUNT
+                IN ROW (11)                                  0.4%
+- --------------------------------------------------------------------------------
+      14        TYPE OF REPORTING PERSON                     CO
+- --------------------------------------------------------------------------------
+
+
+                                    4
+<PAGE>
+
+
+- --------------------------------------------------------------------------------
+CUSIP No. 25454R207
+- --------------------------------------------------------------------------------
+       1        NAME OF REPORTING PERSONS I.R.S.             Verus Investment
+                IDENTIFICATION NO. OF ABOVE PERSON           Holdings, Inc.
+- --------------------------------------------------------------------------------
+       2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                             (a) |_|
+                                                             (b) |X|
+- --------------------------------------------------------------------------------
+       3        SEC USE ONLY
+- --------------------------------------------------------------------------------
+       4        SOURCE OF FUNDS     N/A
+- --------------------------------------------------------------------------------
+       5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+                REQUIRED PURSUANT TO ITEM 2(d) or 2(e)
+                |_|
+
+- --------------------------------------------------------------------------------
+       6        CITIZENSHIP OR PLACE OF ORGANIZATION
+                British Virgin Islands
+- --------------------------------------------------------------------------------
+
+ NUMBER OF           7        SOLE VOTING POWER              1,340,591
+  SHARES        ----------------------------------------------------------------
+BENEFICIALLY         8        SHARES VOTING POWER
+  OWNED BY      ----------------------------------------------------------------
+    THE              9        SOLE DISPOSITIVE POWER         1,340,591
+ REPORTING      ----------------------------------------------------------------
+PERSON WITH         10        SHARED DISPOSITIVE POWER
+
+- --------------------------------------------------------------------------------
+      11        AGGREGATE AMOUNT BENEFICIALLY OWNED BY       1,340,591
+                THE REPORTING PERSON
+- --------------------------------------------------------------------------------
+      12        CHECK BOX IF THE AGGREGATE AMOUNT IN ROW     |_|
+                (11) EXCLUDES CERTAIN SHARES
+- --------------------------------------------------------------------------------
+      13        PERCENT OF CLASS REPRESENTED BY AMOUNT
+                IN ROW (11)                                  4.5%
+- --------------------------------------------------------------------------------
+      14        TYPE OF REPORTING PERSON                     CO
+- --------------------------------------------------------------------------------
+
+
+                                       5
+<PAGE>
+
+
+ITEM 1. SECURITY AND ISSUER.
+
+This Amendment No. 7 to the Schedule 13D, dated February 14, 2002, of Diomed
+Holdings, Inc., a Delaware corporation (the "Issuer"), is filed to reflect the
+information required pursuant to Rule 13d-2 of the Securities and Exchange Act
+of 1934, as amended (the "Act"), relating to common shares, $0.001 par value per
+share (the "Common Stock") of the Issuer. The Issuer's principal executive
+office is 1 Dundee Park, Andover, MA 01810.
+
+ITEM 2. IDENTITY AND BACKGROUND.
+
+(I)  AJMAL KHAN
+
+(a)  This statement is being filed on behalf of Ajmal Khan, an individual and
+     majority owner of Verus International Group Limited and Verus Investment
+     Holdings, Inc.
+
+(b)  The business address of Mr. Khan is c/o Verus International Group Limited,
+     20 West 55th Street, New York, New York 10019.
+
+(c)  Mr. Khan's principal occupation is private investor.
+
+(d)-(e) During the last five years Mr. Khan has not (i) been convicted in a
+criminal proceeding (excluding traffic violations or similar misdemeanors); or
+(ii) been a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction where as a result of such proceeding was or is subject to
+a judgment, decree or final order enjoining future violations of, or prohibiting
+or mandating activities subject to federal or state securities laws or finding
+any violation with respect to such laws.
+
+(f)  Mr. Khan holds Canadian and United Kingdom citizenships.
+
+(II) VERUS INTERNATIONAL GROUP LIMITED
+
+This statement is being filed on behalf of Verus International Group Limited
+("Verus International"), a British Virgin Islands corporation. Verus
+International is engaged in investment holdings. The address of Verus
+International's principal office is 20 West 55th Street, New York, New York
+10019.
+
+(d)-(e) During the last five years no executive officer, director, or control
+person of Verus International has (i) been convicted in a criminal proceeding
+(excluding traffic violations or similar misdemeanors); or (ii) been a party to
+a civil proceeding of a judicial or administrative body of competent
+jurisdiction where as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations of, or prohibiting
+or mandating activities subject to federal or state securities laws or finding
+any violation with respect to such laws.
+
+(III) VERUS INVESTMENT HOLDINGS INC.
+
+This statement is being filed on behalf of Verus Investment Holdings, Inc.
+("Verus Investment"), a British Virgin Islands corporation. Verus Investment is
+engaged in investment holdings. The address of Verus Investment's principal
+office is 20 West 55th Street, New York, New York 10019.
+
+
+                                       6
+<PAGE>
+
+
+(d)-(e) During the last five years no executive officer, director, or control
+person of Verus Investment has (i) been convicted in a criminal proceeding
+(excluding traffic violations or similar misdemeanors); or (ii) been a party to
+a civil proceeding of a judicial or administrative body of competent
+jurisdiction where as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations of, or prohibiting
+or mandating activities subject to federal or state securities laws or finding
+any violation with respect to such laws.
+
+ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+Not applicable.
+
+ITEM 4. PURPOSE OF TRANSACTION
+
+(I)  AJMAL KHAN
+
+On June 10, 2003, Mr. Khan sold 302,100 shares of Common Stock that he
+beneficially owns as the majority owner of Verus Investment through open market
+sales.
+
+(II) VERUS INTERNATIONAL GROUP LIMITED
+
+Not applicable.
+
+(III) VERUS INVESTMENT HOLDINGS, INC.
+
+On June 10, 2003, Verus Investment sold 302,100 shares of Common Stock that it
+beneficially owns through open market sales.
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER.
+
+(I)  AJMAL KHAN
+
+(a) As of the date of this report, Mr. Khan, through his majority ownership of
+Verus International and Verus Investment, beneficially owns an aggregate of
+1,466,491 shares of Common Stock, which represents 4.9% of the Issuer's Common
+Stock.
+
+(b) As of the date of this report, Mr, Khan has the sole power to vote or direct
+the voting of, or dispose or direct the disposition of 1,466,491 shares of the
+Issuer's Common Stock.
+
+(c) Mr. Khan has not effected any transactions other than that described herein
+in the class of securities described since the most recent filing on Schedule
+13D.
+
+(d) Not applicable.
+
+(e) Mr. Khan ceased to be a beneficial owner of more than 5% of the class of
+securities described herein on June 10, 2003.
+
+(II) VERUS INTERNATIONAL GROUP LIMITED
+
+(a) As of the date of this report, Verus International, beneficially owns an
+aggregate of 125,900 shares of Common Stock, which represents 0.4% of the
+Issuer's Common Stock.
+
+
+                                       7
+<PAGE>
+
+
+(b) As of the date of this report, Verus International has the sole power to
+vote or direct the voting of, or dispose or direct the disposition of 125,900
+shares of the Issuer's Common Stock.
+
+(c) Verus International has not effected any transaction other in the class of
+securities described since the most recent filing on Schedule 13D.
+
+(d) Not applicable.
+
+(e) Verus International ceased to be a beneficial owner of more than 5% of the
+class of securities described herein on May 27, 2003.
+
+(III) VERUS INVESTMENT HOLDINGS, INC.
+
+(a) As of the date of this report, Verus Investment, beneficially owns an
+aggregate of 1,340,591 shares of Common Stock, which represents 4.5% of the
+Issuer's Common Stock.
+
+(b) As of the date of this report, Verus Investment has the sole power to vote
+or direct the voting of, or dispose or direct the disposition of 1,340,591
+shares of the Issuer's Common Stock.
+
+(c) Verus Investment has not effected any transactions other than that described
+herein in the class of securities described since the most recent filing on
+Schedule 13D.
+
+(d) Not applicable.
+
+(e) Verus Investment ceased to be a beneficial owner of more than 5% of the
+class securities described herein on June 10, 2003.
+
+ITEM 6. CONTRACTS, AGREEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+        SECURITIES OF THE ISSUER
+
+Not applicable.
+
+
+                                       8
+<PAGE>
+
+
+                               S I G N A T U R E
+
+          After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete, and
+correct.
+
+Date:  October 25, 2004                    VERUS INVESTMENT HOLDINGS, INC.
+
+
+                                           By: /s/ Ajmal Khan
+                                               ---------------------------------
+                                           Name:  Ajmal Khan
+                                           Title: Authorized Representative
+
+
+                                           VERUS INTERNATIONAL GROUP LIMITED
+
+
+                                           By: /s/ Ajmal Khan
+                                               ---------------------------------
+                                           Name:  Ajmal Khan
+                                           Title: Authorized Representative
+
+
+                                           /s/ Ajmal Khan
+                                           -------------------------------------
+                                           Ajmal Khan
+
+                                       9
+
+
+<PAGE>
+
+
+                                                                       EXHIBIT A
+
+               JOINT FILING AGREEMENT PURSUANT TO RULE 13D-1(K)(1)
+
+In accordance with Rule 13d-1(k) under the Securities Exchange Act of 1934, as
+amended, the undersigned hereby agree to the joint filing on behalf of each of
+them of a statement on Schedule 13D Amendment No. 7 (including any additional
+amendments thereto) with respect to the Common Stock of Diomed Holdings, Inc.,
+and that this Agreement be included as an Exhibit to such joint filing.
+
+IN WITNESS WHEREOF, the undersigned hereby execute this Agreement this 25th day
+of October, 2004.
+
+
+                                           VERUS INVESTMENT HOLDINGS, INC.
+
+
+                                           By: /s/ Ajmal Khan
+                                               ---------------------------------
+                                           Name:  Ajmal Khan
+                                           Title: Authorized Representative
+
+
+                                           VERUS INTERNATIONAL GROUP LIMITED
+
+
+                                           By: /s/ Ajmal Khan
+                                               ---------------------------------
+                                           Name:  Ajmal Khan
+                                           Title: Authorized Representative
+
+
+                                           /s/ Ajmal Khan
+                                           -------------------------------------
+                                           Ajmal Khan
+
+                                       i
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

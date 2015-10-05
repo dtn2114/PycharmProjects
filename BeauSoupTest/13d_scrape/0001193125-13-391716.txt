@@ -1,0 +1,552 @@
+<SEC-DOCUMENT>0001193125-13-391716.txt : 20131004
+<SEC-HEADER>0001193125-13-391716.hdr.sgml : 20131004
+<ACCEPTANCE-DATETIME>20131004165336
+ACCESSION NUMBER:		0001193125-13-391716
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20131004
+DATE AS OF CHANGE:		20131004
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INSTITUTIONAL FINANCIAL MARKETS, INC.
+		CENTRAL INDEX KEY:			0001270436
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				161685692
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-79769
+		FILM NUMBER:		131137241
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CIRA CENTRE, 2929 ARCH STREET
+		STREET 2:		17TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104-2870
+		BUSINESS PHONE:		215-701-9555
+
+	MAIL ADDRESS:	
+		STREET 1:		CIRA CENTRE, 2929 ARCH STREET
+		STREET 2:		17TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104-2870
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COHEN & Co INC.
+		DATE OF NAME CHANGE:	20091216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALESCO FINANCIAL INC
+		DATE OF NAME CHANGE:	20061006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNSET FINANCIAL RESOURCES INC
+		DATE OF NAME CHANGE:	20031117
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ahmad Nasser
+		CENTRAL INDEX KEY:			0001400773
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DIMAIO AHMAD CAPITAL LLC
+		STREET 2:		245 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>d607749dsc13d.htm
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+<HTML><HEAD>
+<TITLE>Schedule 13D</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 13D
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Under the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;)* </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>INSTITUTIONAL
+FINANCIAL MARKETS, INC. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Issuer) </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>COMMON STOCK, PAR VALUE $.001 PER SHARE </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Title of Class of Securities) </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>45779L 107 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(CUSIP
+Number) </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Nasser A. Ahmad </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>24 W. 40th Street, 2nd Floor </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York, New York 10018 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(212) 328-7902 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name,
+Address and Telephone Number of Person Authorized to Receive Notices and Communications) </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>September 25, 2013 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Date of Event Which Requires Filing of This Statement) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:18pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If the filing
+person has previously filed a statement on <U>Schedule 13G</U> to report the acquisition that is the subject of this Schedule 13D, and is filing this schedule because of Rule 13d-1(e), Rule 13d-1(f) or Rule 13d-1(g), check the following
+box.&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information
+which would alter disclosures provided in a prior cover page. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The information required on the remainder of this cover page
+shall not be deemed to be &#147;filed&#148; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the
+Act (however, see the Notes). </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 1 of 8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP&nbsp;No. 45779L 107</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"> Page
+ 2
+ of 8</TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;1&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Name of
+reporting person</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">Nasser A. Ahmad</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;2</TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box if a member
+of a group (see instructions)</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(a)&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;3</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">SEC use only</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;4</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Source of funds</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;PF; OO</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;5</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check if disclosure of legal
+proceedings is required pursuant to Items 2(d) or 2(e)&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;6</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Citizenship or place of
+organization</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;United States</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="middle" COLSPAN="3" ROWSPAN="4" STYLE="BORDER-LEFT:1px solid #000000; padding-left:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Number&nbsp;of</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">shares</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">beneficially</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">owned&nbsp;by</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">each</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">reporting</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">person</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">with</P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;7&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sole voting power</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;0</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;8</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Shared voting power</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;974,582<SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:10pt">&nbsp;&nbsp;9</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sole dispositive power</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;0</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-size:10pt">10</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Shared dispositive power</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;974,582<SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">11</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate amount beneficially owned by each reporting person</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;974,582<SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">12</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check box, if the aggregate amount in
+Row (11) excludes certain shares (see instructions)&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">13</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Percent of class represented by amount
+in Row (11)</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;6.30%</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"><FONT STYLE="font-size:10pt">14</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-size:8pt">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Type of reporting person</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;IN</P></TD></TR>
+</TABLE> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Includes membership units of Mead Park Capital Partners LLC (&#147;MP Buyer&#148;) which may, at any time at the option of the Reporting Person, be exchanged for the pro rata portion of the Issuer&#146;s securities held
+by MP Buyer represented thereby. As of September 25, 2013, the Reporting Person&#146;s membership units of MP Buyer could be exchanged for 487,291 shares of the Issuer&#146;s common stock, par value $0.001 (the &#147;Common Stock&#148;) and a pro
+rata portion of the convertible senior promissory notes currently held by MP Buyer. Also includes 487,291 shares of the Issuer&#146;s Common Stock, issuable upon conversion of the Reporting Person&#146;s pro rata portion of such convertible senior
+promissory notes as a result of the Reporting Person&#146;s ownership interest in MP Buyer as of September 25, 2013. Does not include up to 237,010 additional shares of the Issuer&#146;s Common Stock into which the Reporting Person&#146;s pro rata
+portion of such notes may convert in the event that none of the interest thereunder is paid in cash. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP No. 45779L 107</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"> Page
+ 3
+ of 8</TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1. Security and Issuer </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This statement relates to the common stock, par value $0.001 per share (&#147;Common Stock&#148;), of Institutional Financial Markets, Inc., a Maryland
+corporation (the &#147;Issuer&#148;). The address of the Issuer&#146;s principal executive offices is Cira Centre, 2929 Arch Street, 17th Floor, Philadelphia, Pennsylvania 19104-2870. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2. Identify and Background </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(a), (f)&nbsp;This
+statement is being filed by Nasser A. Ahmad (the &#147;Reporting Person&#148;), a U.S. citizen. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(b) The business address of the Reporting Person is 24 W.
+40th Street, 2nd Floor, New York, New York 10018. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(c) The Reporting Person is the Managing Director of DA Capital LLC, with an address at 24 W. 40th
+Street, 2nd Floor, New York, New York 10018. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) During the last five years, the Reporting Person has not been convicted in a criminal proceeding
+(excluding traffic violations or similar misdemeanors). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(e) During the last five years, the Reporting Person has not been a party to a civil proceeding
+of a judicial or administrative body of competent jurisdiction and as a result of such proceeding, was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or
+state securities laws or finding any violation with respect to such laws. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;3. Source and Amount of Funds or Other Consideration </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Reference is made to the Securities Purchase Agreement, dated May&nbsp;9, 2013 (the &#147;MP Purchase Agreement&#148;), by and among the Issuer, MP Buyer, and
+Mead Park Holdings, LP (&#147;Mead Park&#148;), whereby the Issuer agreed to issue and to sell to MP Buyer, (A)&nbsp;1,949,167 newly issued shares (the &#147;MP Shares&#148;) of the Issuer&#146;s common stock, par value $0.001 per share
+(&#147;Common Stock&#148;), at $2.00 per share for an aggregate amount of $3,898,334; and (B)&nbsp;convertible promissory notes (the &#147;MP Notes&#148;), in the aggregate principal amount of $5,847,501, which are convertible into 1,949,167 shares
+of Common Stock at $3.00 per share (the &#147;MP Conversion Shares&#148;), subject to certain customary anti-dilution adjustments. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On September&nbsp;25,
+2013, in connection with the closing (the &#147;Closing&#148;) of the transactions contemplated by the MP Purchase Agreement, MP Buyer acquired from the Issuer the MP Shares and the MP Notes for the aggregate purchase price of $9,745,835. As of
+Closing, the Reporting Person was a member of MP Buyer. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;4. Purpose of the Transaction. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The information in Items 3 and 5 are incorporated by reference herein. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Reporting Person purchased the MP Shares and the MP Notes, indirectly through MP Buyer, for investment purposes. The Reporting Person may, from time to
+time and at any time, acquire </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP No. 45779L 107</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"> Page
+ 4
+ of 8</TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+additional Common Stock, including derivative securities related to the Common Stock, and other equity, debt, notes, instruments or other securities of the Issuer and/or derivative securities
+relating thereto (collectively, &#147;Securities&#148;), in the open market or otherwise. The Reporting Person reserves the right to dispose of any or all of his Securities in the open market or otherwise, at any time and from time to time, and to
+engage in any hedging or similar transactions with respect to the Securities. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Other than as described in this Schedule 13D, the Reporting Person does not
+have any current plans or proposals that relate to or that would result in any of the transactions or other matters specified in clauses (a)&nbsp;through (j)&nbsp;of Item&nbsp;4 of Schedule 13D; provided, that the Reporting Person may, at any time,
+review or reconsider his position with respect to the Issuer and reserve the right to develop such plans or proposals. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The MP Purchase Agreement provides
+that, at any meeting at which the Issuer&#146;s stockholders may vote for the election of directors, for so long as MP Buyer, Mead Park, or any of their controlled affiliates and principals collectively own (a)&nbsp;15% or more of the Issuer&#146;s
+outstanding Common Stock (counting for such purposes all MP Conversion Shares and units of membership interest of IFMI, LLC (&#147;IFMI Units&#148;) as outstanding shares of Common Stock), MP Buyer may designate two individuals to stand for election
+at such meeting; and (b)&nbsp;less than 15% but greater than or equal to 10% of the Issuer&#146;s outstanding Common Stock (counting for such purposes all MP Conversion Shares and IFMI Units as outstanding shares of Common Stock), MP Buyer may
+designate one individual to stand for election at such meeting. On September&nbsp;24. 2013, Jack J. DiMaio, Jr. and Christopher Ricciardi were elected to serve until the next annual meeting of stockholders and until their respective successors are
+duly elected and qualified, or until their earlier death, resignation or retirement. If the collective ownership of MP Buyer, Mead Park, and any of their controlled affiliates and principals falls below the thresholds described above, MP Buyer has
+agreed to cause its representative or representatives, as applicable, to resign from the Issuer&#146;s Board of Directors (the &#147;Board of Directors&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, for so long as MP Buyer, Mead Park, or any of their controlled affiliates and principals collectively own 10% or more of the Issuer&#146;s
+outstanding Common Stock (counting for such purposes all MP Conversion Shares and IFMI Units as outstanding shares of Common Stock), the Company has agreed to cause Mr.&nbsp;DiMaio to be elected and appointed as the Chairman of the Board of
+Directors. In the event both (a)&nbsp;Mr.&nbsp;DiMaio is no longer Chairman of the Board of Directors due to his death, disqualification or removal from office as director, and (b)&nbsp;Mr.&nbsp;Ricciardi is a member of the Board of Directors and
+agrees to act as Chairman thereof, then the Company has agreed to cause Mr.&nbsp;Ricciardi to be elected and appointed as the Chairman of the Board of Directors. On September&nbsp;24, 2013, Mr.&nbsp;DiMaio was elected and appointed as the Chairman
+of the Board of Directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Contemporaneously with the Closing, the Issuer closed the transactions contemplated by the Securities Purchase Agreement,
+dated May&nbsp;9, 2013 (the &#147;CBF Purchase Agreement&#148;), by and between the Issuer and Cohen Bros. Financial, LLC (&#147;CBF&#148;), a Delaware limited liability company of which Daniel G. Cohen is the sole member, whereby the Issuer agreed
+to issue and sell to CBF or its assignee (a)&nbsp;800,000 newly issued shares (the &#147;CBF Shares&#148;) of Common Stock, at $2.00 per share for an aggregate amount of $1,600,000; and (b)&nbsp;a convertible
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP No. 45779L 107</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right"> Page
+ 5
+ of 8</TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+promissory note, in the aggregate principal amount of $2,400,000, which is convertible into Common Stock at $3.00 per share (the &#147;CBF Conversion Shares&#148;), subject to certain customary
+anti-dilution adjustments. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The MP Purchase Agreement and CBF Purchase Agreement (together, the &#147;Purchase Agreements&#148;) are incorporated herein
+as Exhibits 1 and 2, respectively, and the descriptions of the Purchase Agreements contained herein are qualified in their entirety by reference to such Exhibits 1 and 2, as applicable. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;5. Interest in Securities of the Issuer. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(a)-(b)&nbsp;The percentages used in the table below and elsewhere herein are based on (a)&nbsp;12,222,666 shares of the Issuer&#146;s Common Stock outstanding
+as of August&nbsp;1, 2013, as provided in the Issuer&#146;s Quarterly Report on Form 10-Q for the reporting period ended June&nbsp;30, 2013 and filed with the SEC on August&nbsp;6, 2013; plus (b)&nbsp;1,949,167 shares of Common Stock representing
+the MP Shares; plus (c)&nbsp;800,000 shares of Common Stock representing the CBF Shares; plus (d)&nbsp;487,291 shares of Common Stock, issuable upon conversion of the Reporting Person&#146;s pro rata portion of a convertible senior promissory notes
+as a result of his ownership interest in MP Buyer as of September&nbsp;25, 2013. The percentages used in the table below and elsewhere herein do not include the 4,983,557 shares of Series E Non-Convertible Preferred Stock of the Issuer which is
+currently outstanding and which votes together with the Common Stock on all matters submitted to a vote of stockholders of the Issuer. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="20%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="20%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="20%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="20%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" COLSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Number of<BR>Shares of<BR>Common Stock<BR>with&nbsp;Sole&nbsp;Voting<BR>Power</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Number&nbsp;of&nbsp;Shares<BR>of Common<BR>Stock with Sole<BR>Dispositive&nbsp;Power</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Number&nbsp;of&nbsp;Shares<BR>of<BR>Common Stock<BR>with Shared<BR>Voting and<BR>Dispositive&nbsp;Power</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Aggregate<BR>Number<BR>of Shares of<BR>Common&nbsp;Stock<BR>Beneficially<BR>Owned</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Percentage&nbsp;of<BR>Class<BR>Beneficially<BR>Owned</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">0</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">0</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">974,582</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">974,582</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">6.30</TD>
+<TD NOWRAP VALIGN="bottom">%&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Reporting Person may be deemed a beneficial owner of 487,291 shares of the Issuer&#146;s Common Stock that may be issued
+upon the exchange of membership units of MP Buyer. Membership units of MP Buyer may, at any time at the option of the Reporting Person, be exchanged for the pro rata portion of the Issuer&#146;s securities held by MP Buyer represented thereby. As of
+September&nbsp;25, 2013, the Reporting Person&#146;s membership units could be exchanged for (a)&nbsp;487,291 shares of the Issuer&#146;s Common Stock and (b)&nbsp;a convertible senior promissory note with a face value of $1,461,873. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If the Reporting Person exchanges his membership units of MP Buyer and receives his pro rata portion of the convertible senior promissory notes, at any time
+prior to September&nbsp;25, 2018 (the maturity date), the Reporting Person may, at his option, convert all or any part of the outstanding principal amount of such convertible senior promissory notes into shares of the Issuer&#146;s Common Stock at a
+$3.00 per share conversion price, subject to certain customary anti-dilution adjustments. As a result of the Reporting Person&#146;s ownership of membership units of MP Buyer as of September&nbsp;25, 2013, he may be deemed to beneficially own
+487,291 shares of the Issuer&#146;s Common Stock, issuable upon conversion of their pro rata portion of the convertible senior promissory notes. In addition, under certain situations, the Issuer can elect to pay interest on the
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP No. 45779L 107</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"> Page
+ 6
+ of 8</TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+convertible senior promissory notes by increasing the principal amount of the note. If the Issuer elects this option, the number of shares that the notes convert into will increase. The maximum
+number of shares of the Issuer&#146;s Common Stock (subject to customary anti-dilution adjustments) that the notes can convert into with respect to the Reporting Person&#146;s current ownership interest in MP Buyer is 724,301 shares (assuming no
+interest is paid in cash). The additional 237,010 shares of Common Stock into which the notes can convert are not included in this Schedule 13D as shares of Common Stock that the Reporting Person may be deemed to beneficially own as a result of the
+Reporting Person&#146;s ownership of membership units of MP Buyer as of September&nbsp;25, 2013. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As of the Closing, the Reporting Person was a member of
+MP Buyer. Pursuant to its Limited Liability Company Agreement, MP Buyer is required to vote a portion of the shares of Common Stock it beneficially owns equal to the Reporting Person&#146;s pro rata ownership of MP Buyer in accordance with the
+direction of the Reporting Persons. As described in Item&nbsp;5 of this Schedule 13D, at any time, the Reporting Person can exchange his membership units of MP Buyer for his pro rata portion of the Issuer&#146;s securities held by MP Buyer
+represented thereby. MP Buyer may not transfer any of the Issuer&#146;s securities held by MP Buyer without the consent of the members of MP Buyer. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top">Except as set forth in Item&nbsp;4 above, there have been no transactions by the Reporting Person in shares of Common Stock during the last 60 days. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top">MP Buyer currently has the right to receive dividends from the MP Shares. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top">Not applicable. </TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;6. Contracts, Arrangements, Understandings or Relationships With Respect to
+Securities of the Issuer. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Item&nbsp;6 of this Schedule 13D is hereby supplemented by the information set forth in Items 4 and 5 above, which
+information is incorporated by reference herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Contemporaneously with the execution of the Purchase Agreements, the Issuer, MP Buyer and CBF entered
+into a Registration Rights Agreement (the &#147;Registration Rights Agreement&#148;), which became effective as of the Closing. Pursuant to the Registration Rights Agreement, the Issuer agreed to, no later than thirty days after the Closing, file a
+registration statement for the resale of the MP Shares, the CBF Shares, the MP Conversion Shares and the CBF Conversion Shares. The Issuer will use its reasonable best efforts to cause the registration statement to become effective as soon as
+practicable after the filing thereof and remain continuously effective for a period of three years, and the Issuer will file a new registration statement upon request of MP Buyer. In addition, in the event that the Issuer proposes to register any of
+its Common Stock in connection with an underwritten public offering (whether an offering of Common Stock by the Issuer, stockholders of the Issuer, or both, subject to certain exceptions), the Issuer has agreed to, at the request of MP Buyer and/or
+CBF, as applicable, include in such registration any of the MP Shares, the CBF Shares, the MP Conversion Shares and the CBF Conversion Shares, subject to the terms of the Registration Rights Agreement. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP No. 45779L 107</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right"> Page
+ 7
+ of 8</TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Registration Rights Agreement is incorporated herein as Exhibit 3 and the description of the Registration
+Rights Agreement contained herein is qualified in its entirety by reference to the full text of the Registration Rights Agreement, a copy of which is attached hereto as Exhibit 3. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;7. Material to be Filed as Exhibits. </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Securities Purchase Agreement, dated as of May 9, 2013, by and among Institutional Financial Markets, Inc., Mead Park Capital Partners LLC, and, solely for purposes of Section 6.3 thereof, Mead Park Holdings, LP. (incorporated by
+reference to Exhibit 10.1 to the Issuer&#146;s Current Report on Form 8-K filed with the Securities and Exchange Commission on May 13, 2013).</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Securities Purchase Agreement, dated as of May 9, 2013, by and between Institutional Financial Markets, Inc. and Cohen Bros. Financial, LLC (incorporated by reference to Exhibit 10.2 to the Issuer&#146;s Current Report on Form 8-K
+filed with the Securities and Exchange Commission on May 13, 2013).</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Registration Rights Agreement, dated May 9, 2013, by and among Institutional Financial Markets, Inc., Cohen Bros. Financial, LLC and Mead Park Capital Partners LLC (incorporated by reference to Exhibit 10.3 to the Issuer&#146;s
+Current Report on Form 8-K filed with the Securities and Exchange Commission on May 13, 2013).</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CUSIP No. 45779L 107</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:8pt">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"> Page
+ 8
+ of 8</TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">After reasonable inquiry and to the best of the undersigned&#146;s knowledge and belief, the undersigned certifies that the information set
+forth in this statement is true, complete and correct. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dated: October&nbsp;3, 2013 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman" ALIGN="center">/s/&nbsp;&nbsp;&nbsp;&nbsp;Nasser A.
+Ahmad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Nasser A. Ahmad</B></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

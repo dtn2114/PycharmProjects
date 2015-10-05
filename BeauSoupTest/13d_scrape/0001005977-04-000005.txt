@@ -1,0 +1,317 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BZ5+AfzzcZfz5pGw71bZBPbO294SV2vvNJ1vJTlTNdbqAkH3BZQXL+kruYv1ju93
+ fiPKUJL7Pz0ygMkn/huZjA==
+
+<SEC-DOCUMENT>0001005977-04-000005.txt : 20040610
+<SEC-HEADER>0001005977-04-000005.hdr.sgml : 20040610
+<ACCEPTANCE-DATETIME>20040610085826
+ACCESSION NUMBER:		0001005977-04-000005
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20040610
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ORBIT INTERNATIONAL CORP
+		CENTRAL INDEX KEY:			0000074818
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				111826363
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-20218
+		FILM NUMBER:		04857162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 CABOT COURT
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		7136675601
+
+	MAIL ADDRESS:	
+		STREET 1:		80 CABOT COURT
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORBIT INSTRUMENT CORP
+		DATE OF NAME CHANGE:	19911015
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REISSMAN BRUCE
+		CENTRAL INDEX KEY:			0001005977
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 CABOT COURT
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		5164358300
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ORBIT INTERNATIONAL CORP
+		STREET 2:		80 CABOT CT
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                ________________
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. 3)*
+
+                            ORBIT INTERNATIONAL CORP.
+                                (Name of Issuer)
+
+                          Common Stock, $0.10 par value
+                         (Title of Class of Securities)
+
+                                   685559-10-6
+                                 (CUSIP Number)
+
+                             Elliot H. Lutzker, Esq.
+                             Snow Becker Krauss P.C.
+                 605 Third Avenue, New York, New York 10158-0125
+                                 (212) 687-3860
+                     (Name, Address and Telephone Number of
+            Person Authorized to Receive Notices and Communications)
+
+                                  May 30, 2004
+             (Date of Event which Requires Filing of this Statement)
+
+     If  the  filing  person has previously filed a statement on Schedule 13G to
+report  the  acquisition that is the subject of this Schedule 13D, and is filing
+this  schedule  because  of Rule 13d-1(e), Rule 13d-1(f) or Rule 13d-1(g), check
+the  following  box  [  ].
+
+     Note.  Schedules  filed in paper format shall include a signed original and
+five copies of the schedule, including all exhibits. See Rule 13d-7(b) for other
+parties  to  whom  copies  are  to  be  sent.
+
+     *  The  remainder  of  this  cover page shall be filled out for a reporting
+person's  initial  filing  on  this  form  with  respect to the subject class of
+securities,  and for any subsequent amendment containing information which would
+alter  disclosures  provided  in  a  prior  cover  page.
+
+     The  information  required on the remainder of this cover page shall not be
+deemed  to  be  "filed" for the purpose of Section 18 of the Securities Exchange
+Act  of 1934 (the "Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however, see
+the  Notes).
+
+
+
+
+
+
+<PAGE>
+CUSIP  No.  685559-10-6
+
+________________________________________________________________________________
+1)     Name  of  Reporting  Person - I.R.S. Identification Nos. of above person.
+       Bruce  Reissman
+________________________________________________________________________________
+2)     Check  the  Appropriate  Box  if  a  Member of a Group (See Instructions)
+          (a)  [   ]
+          (b)  [   ]
+________________________________________________________________________________
+3)     SEC  Use  Only
+________________________________________________________________________________
+4)     Source  of  Funds  (See  Instructions)
+       PF
+________________________________________________________________________________
+5)     Check  Box  If  Disclosure  of  Legal Proceedings Is Required Pursuant to
+       Items  2(d)  or  2(e)[  ]
+________________________________________________________________________________
+6)     Citizenship  or  Place  of  Organization
+       U.S.A.
+________________________________________________________________________________
+               7)    Sole  Voting  Power
+                     484,214*
+               _________________________________________________________________
+NUMBER         8)    Shared  Voting  Power
+OF  SHARES             0
+BENEFICIALLY   _________________________________________________________________
+OWNED  BY      9)    Sole  Dispositive  Power
+EACH                 484,214*
+               _________________________________________________________________
+REPORTING
+PERSON  WITH  10)    Shared  Dispositive  Power
+                       0
+_______________________________________________________________________________
+11)     Aggregate  Amount  Beneficially  Owned  by  Each  Reporting  Person
+        484,214*
+_______________________________________________________________________________
+12)     Check  Box  if  the  Aggregate  Amount  in  Row  (11)  Excludes  Certain
+        Shares     (See  Instructions)    [   ]
+_______________________________________________________________________________
+13)     Percent  of  Class  Represented  by  Amount  in  Row  (11)
+        16.32%
+_______________________________________________________________________________
+14)     Type  of  Reporting  Person  (See  Instructions)
+        IN
+_______________________________________________________________________________
+*  Reflects  a  twenty-five  (25%)  stock  dividend  effective  August 15, 2003.
+
+<PAGE>
+Item  1.     Security  and  Issuer.
+             ---------------------
+
+     This  statement  (this  "Statement") relates to the common stock, par value
+$0.10  per  share  ("Common  Stock")  of  Orbit  International Corp., a Delaware
+corporation  ("Orbit").  The principal executive offices of Orbit are located at
+80  Cabot  Court,  Hauppauge,  New  York  11788.
+
+
+Item  2.     Identity  and  Background.
+             -------------------------
+
+     (a)     This  Statement  is  being  filed  by  Bruce  Reissman.
+
+     (b)     The  business  address of Bruce Reissman is c/o Orbit International
+Corp.,  80  Cabot  Court,
+Hauppauge,  New  York  11788.
+
+     (c)     Bruce Reissman is Executive Vice President, Chief Operating Officer
+and  a  director of Orbit.  Orbit is engaged in the design, manufacture and sale
+of  customized  electronic  components  and  subsystems,  and  the  design  and
+manufacture  of distortion free commercial power units, power conversion devices
+and  electronic  devices  for  measurement  and display. Its principal office is
+located  at  80  Cabot  Court,  Hauppauge,  New  York  11788.
+
+     (d)-(e)  Bruce Reissman has not, during the last five years, been convicted
+in a criminal proceeding (excluding traffic violations or similar misdemeanors),
+or  been  a  party to a civil proceeding of a judicial or administrative body of
+competent  jurisdiction resulting in a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities subject to, Federal
+or  state  securities  laws  or finding any violation with respect to such laws.
+
+     (f)     Bruce  Reissman  is  a  citizen  of  the  United  States.
+
+
+Item  3.     Source  and  Amount  of  Funds  or  Other  Consideration.*
+             --------------------------------------------------------
+
+     Bruce  Reissman  was  granted an option to purchase 25,000 shares of Common
+Stock at $5.64 per share, which become exercisable on July 29, 2004, pursuant to
+Orbit's 2003 Employee Stock Incentive Plan.  The event which requires the filing
+of  this  Statement is Mr. Reissman's right to exercise the foregoing option and
+acquire  25,000  shares of Common Stock within 60 sixty days of the date hereof.
+Should  Mr.  Reissman  exercise  such  option, he anticipates that the source of
+consideration  paid  to  Orbit  upon  exercise  would  be  personal  funds.
+
+
+Item  4.     Purpose  of  Transaction.*
+             ------------------------
+
+     The  option  to purchase 25,000 shares of Common Stock was granted to Bruce
+Reissman  pursuant to Orbit's 2003 Employee Stock Incentive Plan.  Mr. Reissman,
+as  an  officer and a director of Orbit, is eligible to receive stock options in
+both  capacities.
+
+     Except  as  otherwise  described  herein,  Bruce Reissman does not have any
+plans  or proposals as of the date hereof which relate to or would result in any
+of  the  actions  or  events  enumerated in clauses (a) through (j) of Item 4 of
+Schedule  13D.
+
+
+
+
+
+<PAGE>
+Item  5.     Interest  in  Securities  of  the  Issuer.*
+             -----------------------------------------
+
+     (a)     At  the  date  of  this Statement, Bruce Reissman beneficially owns
+484,214  shares  of  Common  Stock  of Orbit, which includes options to purchase
+189,583  shares  of  Orbit's  Common  Stock, 25,000 of which are not exercisable
+until  July  29,  2004.  This  represents  beneficial ownership of approximately
+16.32%  of the 2,778,118 total number of issued and outstanding shares of Common
+Stock  of  Orbit  as  of  May  30,  2004.
+
+     (b)     Bruce  Reissman  has sole disposition and voting power with respect
+to  all  484,214  shares  of  Common  Stock  of  Orbit beneficially owned by Mr.
+Reissman.
+
+     (c)     Not  Applicable.
+
+     (d)     Not  Applicable.
+
+     (e)     Not  Applicable.
+
+
+Item  6.     Contracts,  Arrangements,  Understandings  or  Relationships  with
+             ------------------------------------------------------------------
+             Respect  to  Securities  of  the  Issuer.
+             -----------------------------------------
+
+     Except  as  otherwise  described  herein,  there  exists  no  contract,
+arrangement,  understanding  or  relationship (legal or otherwise) between Bruce
+Reissman and any other person or entity with respect to any securities of Orbit,
+including,  but  not  limited  to,  transfer or voting of any of the securities,
+finder's  fees,  joint  ventures,  loan  or  option arrangements, puts or calls,
+guarantees of profits, division of profits or loss, or the giving or withholding
+of  proxies.
+
+
+Item  7.     Material  to  be  Filed  as  Exhibits.
+             -------------------------------------
+
+     None.
+*  Reflects  a  twenty-five  (25%)  stock  dividend  effective  August 15, 2003.
+
+
+<PAGE>
+                                    SIGNATURE
+                                    ---------
+
+     After  reasonable  inquiry  and  to  the best of my knowledge and belief, I
+certify  that  the information set forth in this Statement is true, complete and
+correct.
+
+
+Dated:  June  8,  2004
+
+
+
+                                   /s/  Bruce  Reissman
+                                   --------------------
+                                   Bruce  Reissman
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

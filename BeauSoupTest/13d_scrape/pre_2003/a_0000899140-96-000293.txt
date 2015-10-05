@@ -1,0 +1,478 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BtOdsZ7Uhq6nWaFEzAOjBqOq/oE3lm4Gey6SriyOKPKejzaq4vaaTA+Z14bbxaQO
+ DFA+Wd/sSOZHVC05H+0g3w==
+
+<SEC-DOCUMENT>0000899140-96-000293.txt : 19960625
+<SEC-HEADER>0000899140-96-000293.hdr.sgml : 19960625
+ACCESSION NUMBER:		0000899140-96-000293
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960624
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCHEIN HENRY INC
+		CENTRAL INDEX KEY:			0001000228
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				113136595
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-46221
+		FILM NUMBER:		96584666
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 DURYEA RD
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+		BUSINESS PHONE:		5168435500
+
+	MAIL ADDRESS:	
+		STREET 1:		135 DURYEA RD
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCHEIN PAMELA M
+		CENTRAL INDEX KEY:			0001003458
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		805 THIRD AVENUE
+		STREET 2:		6 FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127554100
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O IRVING SHAFRAN ESQ
+		STREET 2:		805 THIRD AVE 6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>1
+                       UNITED STATES
+            SECURITIES AND EXCHANGE COMMISSION
+                  Washington, D.C. 20549
+
+                       SCHEDULE 13D
+
+         Under the Securities Exchange Act of 1934
+
+                   (Amendment No.  1 )*
+
+                    Henry Schein, Inc.
+
+                     (Name of Issuer)
+
+          Common Stock, par value $.01 per share
+
+              (Title of Class of Securities)
+
+                         806407102
+
+                      (CUSIP Number)
+
+                   Irving Shafran, Esq.
+                805 Third Avenue, 6th Floor
+                    New York, NY 10022
+                      (212) 755-4100
+
+(Name, Address and Telephone Number of Person Authorized
+         to Receive Notices and Communications)
+
+                       June 20, 1996
+
+(Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously  filed a statement on Schedule 13G to
+report the  acquisition  which is the subject of this  Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following
+box .|_|
+
+Check the following box if a fee is being paid with the statement |_|. (A fee
+is not required only if the reporting person:  (1) has a previous statement on
+file reporting  beneficial  ownership  of more  than  five  percent  of the
+class of securities  described  in Item 1;  and (2) has  filed  no  amendment
+subsequent thereto reporting  beneficial  ownership of five percent or less of
+such class.) (See Rule 13d-7.)
+
+Note:  Six copies of this  statement,  including all exhibits,  should be filed
+with the  Commission.  See Rule 13d-l(a) for other parties to whom copies are
+to be sent.
+
+*The  remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for  any  subsequent   amendment   containing   information
+which  would  alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the  Securities  Exchange
+Act of 1934 ("Act") or otherwise  subject to the liabilities of that section of
+the Act but  shall be  subject  to all other  provisions  of the Act  (however,
+see the Notes).
+
+
+
+<PAGE>2
+                               SCHEDULE 13D
+
+- ------------------------------------------------
+CUSIP No.    806407102
+           --------------
+- ------------------------------------------------
+
+
+- ----------- -------------------------------------------------------------------
+    1       NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            Pamela M. Schein
+- ----------- -------------------------------------------------------------------
+    2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*       (a)|_|
+                                                                    (b)|_|
+
+- ----------- -------------------------------------------------------------------
+    3       SEC USE ONLY
+
+
+- ----------- -------------------------------------------------------------------
+    4       SOURCE OF FUNDS*
+
+            OO
+- ----------- -------------------------------------------------------------------
+    5       CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDING IS REQUIRED PURSUANT TO
+            ITEMS 2(d) or 2(e)                                         |_|
+
+
+- ----------- -------------------------------------------------------------------
+    6       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            United States of America
+- --------------------- --------- -----------------------------------------------
+                         7      SOLE VOTING POWER
+
+                                1,642,503.5
+                      --------- -----------------------------------------------
+  NUMBER OF SHARES       8      SHARED VOTING POWER
+ BENEFICIALLY OWNED
+ BY EACH REPORTING              0
+    PERSON WITH
+                      --------- -----------------------------------------------
+                         9      SOLE DISPOSITIVE POWER
+
+                                1,642,503.5
+                      --------- -----------------------------------------------
+                         10     SHARED DISPOSITIVE POWER
+
+                                0
+- ----------- -------------------------------------------------------------------
+    11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH PERSON
+
+            1,642,503.5
+- ----------- -------------------------------------------------------------------
+    12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+            SHARES*                                                   |_|
+
+- ----------- -------------------------------------------------------------------
+    13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            7.8%
+- ----------- -------------------------------------------------------------------
+    14      TYPE OF REPORTING PERSON*
+
+            IN
+- ----------- -------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+            INCLUDE  BOTH SIDES OF THE COVER PAGE,  RESPONSES  TO
+          ITEMS 1-7 (INCLUDING  EXHIBITS) OF THE SCHEDULE,  AND THE
+                             SIGNATURE ATTESTATION.
+<PAGE>3
+
+
+Item 1.  Security and Issuer
+
+This Amendment No. 1 to Schedule 13D  ("Amendment  No. 1") relates to the Common
+Stock,  par value $.01 per share (the "Common  Stock") of Henry Schein,  Inc., a
+Delaware corporation ("HSI" or the "Company"). The Company's principal executive
+offices are located at 135 Duryea Road, Melville, New York 11747.
+
+Amendment No. 1 is being filed  pursuant to Rule 13d-2(a)  under the  Securities
+Exchange Act of 1934 (the  "Exchange  Act") to reflect the change in  beneficial
+ownership of the reporting  person  resulting from the sale of 715,000 shares of
+Common Stock reported in Item 5(c). Pursuant to Rule 13d-2(c) under the Exchange
+Act, the entire text of the Schedule 13D  previously  filed on November 15, 1995
+is being restated.
+
+Item 2.  Identity and Background
+
+(a) Name:  Pamela M. Schein
+
+(b) Business Address:  c/o Irving Shafran, Esq., 805 Third Avenue, 6th Floor,
+New York, New York, 10022
+
+(c) Present principal occupation:  Managing Editor; Name, principal business
+and address of organization in which such employment is conducted: Country
+Magazine, magazine publishing, 29 North Main Street, Southampton, New York
+11968.
+
+(d) Ms. Schein has not been convicted in a criminal proceeding during the last
+five years.
+
+(e) Ms.  Schein  has not  been  party to a civil  proceeding  of a  judicial
+or administrative  body of  competent  jurisdiction  subjecting  her to a
+judgment, decree  or final  order  enjoining  future  violations  of,  or
+prohibiting  or mandating activities subject to, federal or state securities
+laws or finding any violation with respect to such laws during the last five
+years.
+
+(e) Citizenship:  United States of America
+
+Item 3.  Source and Amount of Funds or Other Consideration
+
+The Common Stock beneficially owned by Ms. Schein was inherited from her
+father, Jacob M. Schein.
+
+Item 4.  Purpose of Transaction
+
+As stated above, the shares of Common Stock beneficially owned by Ms. Schein
+were inherited.  Ms. Schein has no present plans or proposals of the type
+required to be disclosed in this Item.
+
+
+
+<PAGE>4
+
+
+Item 5.  Interest in Securities of the Issuer
+
+(a) Pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, Ms. Schein
+is the beneficial owner of 1,642,503.5 shares of Common Stock (representing
+7.8% of the  outstanding  Common Stock of the  Company)  through her power to
+revoke the Revocable Trust  established by her under Trust Agreement dated
+October 26, 1994 (the "Revocable Trust").  Such Common Stock was transferred by
+Ms. Schein to the Revocable Trust on November 8, 1995.
+
+(b) The shares of Common  Stock  owned by the  Revocable  Trust are subject to
+a Voting  Trust  Agreement,  dated  September  30,  1994  (the "HSI  Voting
+Trust Agreement"),  among the Company, the Estate of Jacob M. Schein, the
+Trusts under Articles Third and Fourth of the Will of Jacob M. Schein,  the
+Trust established by Pamela  Joseph  under  Trust  Agreement  dated  February
+9, 1994,  the Trust established by Martin Sperber under Trust  Agreement  dated
+September 19, 1994, management  stockholders and Stanley M. Bergman, as Voting
+Trustee. Mr. Bergman, as  Voting  Trustee,  has the sole  power to vote the
+shares  of  Common  Stock beneficially  owned by Ms.  Schein,  except that Ms.
+Schein retains the right to vote the  shares  of  Common  Stock in  connection
+with  (i) a  dissolution  or liquidation  of the Company,  (ii) a merger or
+consolidation  of the Company or (iii) a sale,  lease or other  transfer of a
+Significant  Business  Unit of the Company (as such term is defined in the HSI
+Voting Trust Agreement),  and upon a revocation of the  Revocable  Trust,
+would have such voting  power.  Unless and until Ms.  Schein  revokes the
+Revocable  Trust,  the Trustees of the Revocable Trust, Irving Shafran and
+Judith Shafran,  share the power to vote, or to direct the vote of,  the
+shares  of  Common  Stock  described  in Item  5(a)  above in connection  with
+(i) a dissolution or liquidation of the Company,  (ii) a merger or
+consolidation  of the Company or (iii) a sale,  lease or other transfer of a
+Significant Business Unit of the Company.
+
+Ms.  Schein does not have the power to dispose of, or to direct the
+disposition of, any of the shares of Common Stock owned by the Revocable
+Trust,  other than through the right to revoke such trust.  Unless and until
+Ms. Schein revokes the Revocable Trust, the Trustees of the Revocable Trust,
+Irving Shafran and Judith Shafran,  share the power to dispose  of, or to
+direct the  disposition  of, the shares of Common Stock described in Item 5(a)
+above.
+
+Ms. Schein is also party to the Amended and Restated HSI Agreement, effective
+as of February 16, 1994 (the "HSI Agreement"), among the Company, Marvin H.
+Schein, the Trust  established by Marvin H. Schein under Trust Agreement dated
+September 9, 1994,  the  Charitable  Trust  established  by Marvin H.  Schein
+under Trust Agreement  dated  September 12, 1994, the Estate of Jacob M.
+Schein,  the Trusts established  by Articles  Third and Fourth of the Will of
+Jacob M.  Schein,  the Trust established by Pamela Joseph under Trust Agreement
+dated February 9, 1994, the
+
+<PAGE>5
+
+
+Trust  established by Martin Sperber under Trust  Agreement  dated September
+19, 1994, the Trust  established by Stanley M. Bergman under Trust  Agreement
+dated September 15, 1994,  Pamela Schein,  Pamela Joseph,  Martin Sperber,
+Stanley M.  Bergman,  Steven  Paladino and James P.  Breslawski.  Although Ms.
+Schein would, upon a revocation of the Revocable Trust,  have the sole power to
+dispose of, or to direct the  disposition of, the shares of Common Stock
+described in Item 5(a) above,  any  disposition of such shares may be made only
+in accordance  with the terms and conditions of the HSI Agreement.
+
+(c) The Trustees of the Revocable  Trust sold 715,000  shares of Common Stock
+on June 20,  1996,  in  connection  with an  underwritten  public  offering  of
+the Company's  Common  Stock at a price of $33.635  per share,  net of
+underwriting discounts.
+
+(d) Not applicable.
+
+(e) Not applicable.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with Respect
+to Securities of the Issuer
+
+As discussed in Item 5 above, the shares of Common Stock  beneficially  owned
+by Ms. Schein are held by the Revocable  Trust. The Trustees of the Revocable
+Trust share  investment  power over the shares of Common Stock.  As also
+described in Item 5, the shares of Common Stock  beneficially owned by Ms.
+Schein are subject to the HSI Voting Trust Agreement,  which grants the Voting
+Trustee the right to vote such shares  except in  connection  with  certain
+extraordinary  corporate transactions.
+
+Additionally,  the  HSI  Agreement  provides  that  until  the  earlier  of
+the termination of the Voting Trust Agreement or January 1, 1999, Ms. Schein
+has the right to  serve as or  designate  a  director  of the  Company.  Irving
+Shafran presently  serves as Ms.  Schein's  designee  on the Board of
+Directors  of the Company. The HSI Agreement also limits the right of Ms.
+Schein to participate in any  solicitation of proxies or any election contest
+and limits the right of the Company to adopt a shareholder rights plan.
+
+Additionally,  Marvin  Schein has agreed to consult with Ms. Schein prior to
+the exercise  of  certain  of his  rights of  approval  and  consent  under
+various agreements  executed in  connection  with the  reorganization  of the
+Company in September 1994.
+
+Item 7.  Material to be Filed as Exhibits
+
+The Voting Trust Agreement,  dated September 30, 1994, among Henry Schein,
+Inc., the Estate of Jacob M. Schein, the Trusts under Articles Third and Fourth
+of the Will of Jacob M.  Schein,  the Trust  established  by Pamela  Joseph
+under Trust Agreement dated February 9, 1994, the Trust  established by Martin
+Sperber under Trust Agreement dated September 19, 1994, management stockholders
+
+<PAGE>6
+
+
+and Stanley M. Bergman, as Voting Trustee, is hereby incorporated by reference
+to Exhibit 9.1 to Henry Schein, Inc.'s Registration Statement on Form S-1
+(Registration No. 33-96528).
+
+The Amended and Restated HSI Agreement, effective as of February 16, 1994,
+among the Company,  Marvin H. Schein,  the Trust established by Marvin H.
+Schein under Trust  Agreement dated  September 9, 1994, the Charitable  Trust
+established by Marvin H. Schein under Trust  Agreement  dated September 12,
+1994, the Estate of Jacob M. Schein, the Trusts established by Articles Third
+and Fourth of the Will of Jacob M. Schein, the Trust established by Pamela
+Joseph under Trust Agreement dated  February 9, 1994,  the Trust  established
+by Martin  Sperber under Trust Agreement dated September 19, 1994, the Trust
+established by Stanley M. Bergman under Trust Agreement dated  September 15,
+1994,  Pamela Schein,  Pamela Joseph, Martin Sperber, Stanley M. Bergman,
+Steven Paladino and James P. Breslawski,  is hereby  incorporated  by
+reference  to  Exhibit  10.1 to Henry  Schein,  Inc.'s Registration Statement
+on Form S-1 (Registration No. 33-96528).
+
+Power of attorney of Pamela M. Schein is hereby incorporated by reference to
+the signature page of the Schedule 13D filed by Pamela M. Schein on November
+15, 1995.
+
+
+
+<PAGE>7
+
+
+
+
+                                  SIGNATURE
+
+         After reasonable  inquiry and to the best of my knowledge and belief,
+I certify that the information  set forth in this statement is true,  complete
+and correct.
+
+
+                                                             *
+                                                      Pamela M. Schein
+
+Date:  June 24, 1996
+
+
+
+*By:   /s/ Irving Shafran
+           Irving Shafran
+           Attorney-in-fact
+
+
+
+<PAGE>8
+
+
+
+
+                                    EXHIBIT INDEX
+
+Exhibit
+Number   Description
+
+1        Voting Trust Agreement, dated September 30, 1994, among Henry
+         Schein, Inc., the Estate of Jacob M. Schein, the Trusts under
+         Articles Third and Fourth of the Will of Jacob M. Schein, the
+         Trust established by Pamela Joseph under Trust Agreement
+         dated February 9, 1994, the Trust established by Martin
+         Sperber under Trust Agreement dated September 19, 1994,
+         management stockholders and Stanley M. Bergman, as Voting
+         Trustee.*
+
+2        Amended and Restated HSI  Agreement,  effective as of February
+         16,  1994,  among the  Company,  Marvin H.  Schein,  the Trust
+         established  by Marvin H. Schein under Trust  Agreement  dated
+         September 9, 1994, the Charitable Trust  established by Marvin
+         H. Schein under Trust  Agreement dated September 12, 1994, the
+         Estate of Jacob M. Schein,  the Trusts established by Articles
+         Third  and  Fourth of the Will of Jacob M.  Schein,  the Trust
+         established  by Pamela  Joseph  under  Trust  Agreement  dated
+         February  9, 1994,  the Trust  established  by Martin  Sperber
+         under Trust  Agreement  dated  September  19, 1994,  the Trust
+         established by Stanley M. Bergman under Trust  Agreement dated
+         September  15, 1994,  Pamela  Schein,  Pamela  Joseph,  Martin
+         Sperber, Stanley M. Bergman, Steven Paladino and James P.
+         Breslawski.**
+
+3        Power of Attorney.***
+
+- ---------------
+
+*        Incorporated by reference to Exhibit 9.1 to Henry Schein, Inc.'s
+         Registration Statement on Form S-1 (Registration No. 33-96528).
+
+**       Incorporated by reference to Exhibit 10.1 to Henry Schein, Inc.'s
+         Registration Statement on Form S-1 (Registration No. 33-96528).
+
+***      Included on the signature page to the Schedule 13D filed by Pamela
+         Schein on November 15, 1995.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

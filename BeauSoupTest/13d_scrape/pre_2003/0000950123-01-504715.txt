@@ -1,0 +1,364 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C3FazYUFmHeIff0p7ZAN7dkTZ84UKgmBE6IU1bE26Gk2wUJeMbcIolwHxvk+5V8n
+ igwM+LS03PEetuDiaEBPeg==
+
+<SEC-DOCUMENT>0000950123-01-504715.txt : 20010727
+<SEC-HEADER>0000950123-01-504715.hdr.sgml : 20010727
+ACCESSION NUMBER:		0000950123-01-504715
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20010726
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED NATIONAL BANCORP
+		CENTRAL INDEX KEY:			0000831959
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				222894827
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-61791
+		FILM NUMBER:		1689813
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1130 ROUTE 22 EAST
+		CITY:			BRIDGEWATER
+		STATE:			NJ
+		ZIP:			08807
+		BUSINESS PHONE:		9084292200
+
+	MAIL ADDRESS:	
+		STREET 1:		1130 ROUTE 22 EAST
+		CITY:			BRIDGEWATER
+		STATE:			NJ
+		ZIP:			08807
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUST CO OF NEW JERSEY
+		CENTRAL INDEX KEY:			0000099982
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				221337980
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		35 JOURNAL SQUARE
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07306
+		BUSINESS PHONE:		2014202500
+
+	MAIL ADDRESS:	
+		STREET 1:		35 JOURNAL SQU
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07306
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>y51876sc13d.txt
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                  UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  SCHEDULE 13D
+
+
+                    Under the Securities Exchange Act of 1934
+
+                              (Amendment No. ____)*
+
+
+
+                      United National Bancorp - New Jersey
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                                  Common Stock
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    910909100
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+
+                                 Siggi B. Wilzig
+                      Chairman and Chief Executive Officer
+                                35 Journal Square
+                          Jersey City, New Jersey 07306
+                                 (201) 420-2500
+- --------------------------------------------------------------------------------
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+
+
+                                  July 19, 2001
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the following box
+[X].
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 or otherwise subject to the liabilities of that section of the Act but
+shall be subject to all other provisions of the Act (however, see the Notes).
+
+
+<PAGE>   2
+CUSIP NO. 91909100
+
+- --------------------------------------------------------------------------------
+1.   NAME OF REPORTING PERSON
+
+
+          THE TRUST COMPANY OF NEW JERSEY
+      I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+            22-1337980
+- --------------------------------------------------------------------------------
+
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+                                                                (a)  [ ]
+                                                                (b)  [ ]
+- --------------------------------------------------------------------------------
+
+3.   SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+
+4.   SOURCE OF FUNDS
+
+            WC
+
+- --------------------------------------------------------------------------------
+
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS
+     2(d) OR 2(e) [ ]
+
+            NOT APPLICABLE
+
+- --------------------------------------------------------------------------------
+
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            NEW JERSEY
+
+- --------------------------------------------------------------------------------
+
+                    7.   SOLE VOTING POWER
+
+     NUMBER OF            1,369,243
+      SHARES        ------------------------------------------------------------
+   BENEFICIALLY     8.   SHARED VOTING POWER
+     OWNED BY
+       EACH              2,000
+    REPORTING       ------------------------------------------------------------
+      PERSON        9.   SOLE DISPOSITIVE POWER
+       WITH
+                         1,369,243
+                    ------------------------------------------------------------
+                    10.  SHARED DISPOSITIVE POWER
+
+                         2,000
+
+- --------------------------------------------------------------------------------
+
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      1,371,243
+- --------------------------------------------------------------------------------
+
+
+
+
+
+                                  Page 2 of 6
+<PAGE>   3
+CUSIP NO. 91909100
+
+
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES
+
+                                                   [  ]
+
+
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+            9.10%
+
+14.  TYPE OF REPORTING PERSON
+
+            BK
+
+
+
+
+Item 1. Security and Issuer
+
+      This statement relates to the common stock, par value $1.25 per share
+      ("Common Stock"), of United National Bancorp, a New Jersey corporation
+      ("Company"), with its principal office located at 1130 Route 22 East,
+      Bridgewater, NJ 07470.
+
+Item 2. Identity and Background.
+
+      This statement is filed on behalf of The Trust Company of New Jersey, a
+      New Jersey corporation ("Trust Company"), with its principal offices
+      located at 35 Journal Square, Jersey City, New Jersey 07306. The Trust
+      Company is a state-chartered full-service commercial bank with some 50
+      stand-alone branches and about 20 branches in grocery stores in numerous
+      New Jersey counties. Trust Company's services include personal and
+      business checking and savings accounts, NOW accounts, money markets
+      accounts and certificates of deposit. Its lending activities consist of
+      mortgage loans, commercial and industrial construction loans, real estate
+      loans and installment loans. Other services include investment management,
+      insurance and fiduciary services. During the past five years, Trust
+      Company has neither been convicted in a criminal proceeding (excluding
+      traffic violations and similar misdemeanors), nor has it been subject to a
+      judgment, decree, or final order in a civil proceeding enjoining future
+      violations of, or prohibiting or mandating activities subject to, federal
+      or state securities laws or finding any violation with respect to such
+      laws.
+
+
+
+
+                                  Page 3 of 6
+<PAGE>   4
+CUSIP NO. 91909100
+
+
+Item 3. Source and Amount of Funds or Other Consideration.
+
+      Between February 15, 2001 and June 29, 2001, Trust Company purchased
+      255,708 shares of Company Common Stock in the open market. The funds used
+      to make these acquisitions were derived from working capital.
+
+Item 4. Purpose of the Transaction.
+
+      Trust Company has elected to convert its filing on Schedule 13G, filed
+      with the Securities and Exchange Commission on February 15, 2001, into a
+      filing on this Schedule 13D to reflect its decision on July 19, 2001
+      (which occurred after the purchase of Company Common Stock described in
+      Item 3 above) to enter into discussions with management and/or third
+      parties that may relate to or result in, among other things, the
+      acquisition by Trust Company of additional securities of the Company, a
+      change in the Company's management, control, capitalization, the sale or
+      transfer of a material amount of the Company's assets, a merger (including
+      a merger in which the Company may be the survivor), reorganization or
+      similar transaction involving the Company. Trust Company has not developed
+      specific plans or proposals with respect to any of the foregoing but may
+      do so in the future.
+
+Item 5. Interest in Securities of the Issuer.
+
+      Trust Company beneficially owns 1,371,243 shares of Company Common Stock,
+      which represents approximately 9.10% of the Company Common Stock
+      outstanding, based on 15,061,713 shares of Company Common Stock
+      outstanding as reported in Company's Form 10-Q filed May 15, 2001 for the
+      quarterly period ended March 31, 2001. Of these 1,371,243 shares of
+      Company Common Stock, Trust Company has sole voting power over 1,369,243
+      shares and shared voting power over 2,000 shares. Of these 1,371,243
+      shares of Company Common Stock, Trust Company has sole dispositive power
+      over 1,369,243 shares and shared dispositive power over 2,000 shares.
+      Except for the acquisition of Company Common Stock as described in Item 3,
+      no transactions in Company Common Stock have been effected by Trust
+      Company during the past 60 days.
+
+
+
+
+
+                                  Page 4 of 6
+<PAGE>   5
+CUSIP NO. 910909100
+
+
+Item 6.   Contracts, Arrangements, Understandings or Relationships with Respect
+          to Securities of the Issuer.
+
+      Not Applicable
+
+Item 7.   Material to be Filed as Exhibits.
+
+      Not Applicable
+
+
+
+
+
+
+
+
+                                  Page 5 of 6
+<PAGE>   6
+CUSIP NO. 91909100
+
+
+
+                                    SIGNATURE
+
+      After reasonable inquiry and to the best knowledge and belief of the
+undersigned, the undersigned certifies that the information set forth in this
+statement is true, complete and correct.
+
+Date:  July 25, 2001
+
+
+                                 THE TRUST COMPANY OF NEW JERSEY
+
+
+
+                                 By:/S/ RAYMOND P. CATLAW
+                                    ---------------------
+                                     Name: Raymond P. Catlaw
+                                    Title: First Senior Vice President and
+                                           Trust Officer
+
+
+
+
+
+
+
+
+
+
+                                  Page 6 of 6
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

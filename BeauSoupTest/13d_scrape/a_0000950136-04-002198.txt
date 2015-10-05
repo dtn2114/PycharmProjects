@@ -1,0 +1,1148 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KaO/zO4MYHiuWt7mbEtqhs1A4evvQ5gp0TfZlN+6g4nomXkjQYOzwAyvYXXI9SBG
+ muFrdHiz884rJtJ7gPpPJg==
+
+<SEC-DOCUMENT>0000950136-04-002198.txt : 20040712
+<SEC-HEADER>0000950136-04-002198.hdr.sgml : 20040712
+<ACCEPTANCE-DATETIME>20040712152518
+ACCESSION NUMBER:		0000950136-04-002198
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20040712
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AITKEN TIMOTHY M
+		CENTRAL INDEX KEY:			0001172489
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRANSWORLD HEALTHCARE INC
+		STREET 2:		555 MADISON AVE 30TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLIED HEALTHCARE INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000890634
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HOME HEALTH CARE SERVICES [8082]
+		IRS NUMBER:				133098275
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45967
+		FILM NUMBER:		04910157
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127500064
+
+	MAIL ADDRESS:	
+		STREET 1:		555 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRANSWORLD HEALTHCARE INC
+		DATE OF NAME CHANGE:	19970610
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRANSWORLD HOME HEALTHCARE INC
+		DATE OF NAME CHANGE:	19940728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>file001.txt
+<DESCRIPTION>AMENDMENT NO. 4 TO SCHEDULE 13D
+<TEXT>
+<PAGE>
+
+
+
+- --------------------------------------------------------------------------------
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                                (Amendment No. 4)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+            TO RULE 13d-1(a) AND AMENDMENTS THERETO FILED PURSUANT TO
+                                  RULE 13d-2(a)
+
+
+                      Allied Healthcare International Inc.
+- --------------------------------------------------------------------------------
+
+                                (Name of Issuer)
+
+                     Common Stock, par value $0.01 per share
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                  01923A 10 9
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                                Timothy M. Aitken
+                Chairman of the Board and Chief Executive Officer
+                      Allied Healthcare International Inc.
+                               555 Madison Avenue
+                            New York, New York 10022
+                                 (212) 750-0064
+- --------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                  July 7, 2004
+- --------------------------------------------------------------------------------
+
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the following
+box. [ ]
+
+
+
+                                     Page 1
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+CUSIP No. 01923A 10 9
+- ------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                                                    <C>
+          1.    NAMES OF REPORTING PERSONS
+                I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                Timothy M. Aitken
+- ------------------------------------------------------------------------------------------------------------------------------
+          2.    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP                                                     (a)|_|
+                                                                                                                         _
+                                                                                                                     (b)|_|
+- ---------------------------------------------------------------------------------------------------------------------------
+          3.    SEC USE ONLY
+- ---------------------------------------------------------------------------------------------------------------------------
+          4.    SOURCE OF FUNDS
+
+                PF, OO
+- ---------------------------------------------------------------------------------------------------------------------------
+          5.    CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT                                           _
+                TO ITEMS 2(d) or 2(e)                                                                                  |_|
+
+- ----------------------------------------------------------------------------------------------------------------------------
+          6.    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                United Kingdom
+- ----------------------------------------------------------------------------------------------------------------------------
+                        7.       SOLE VOTING POWER
+NUMBER OF SHARES                 1,963,573
+BENEFICIALLY OWNED BY
+EACH REPORTING PERSON
+WITH
+                      ------------------------------------------------------------------------------------------------------
+                        8.       SHARED VOTING POWER
+
+                                 0
+                      ------------------------------------------------------------------------------------------------------
+                        9.       SOLE DISPOSITIVE POWER
+
+                                 1,963,573
+                      ------------------------------------------------------------------------------------------------------
+                        10.      SHARED DISPOSITIVE POWER
+
+                                 0
+- ----------------------------------------------------------------------------------------------------------------------------
+            11.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                  1,963,573
+
+- --------------------------------------------------------------------------------                                        _
+            12.   CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES                                    |_|
+
+- ----------------------------------------------------------------------------------------------------------------------------
+            13.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+                  4.3%
+- ----------------------------------------------------------------------------------------------------------------------------
+            14.   TYPE OF REPORTING PERSON
+
+                  IN
+- ----------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                     Page 2
+<PAGE>
+
+
+
+         This Amendment No. 4 amends and restates the Schedule 13D filed by
+Timothy M. Aitken with the Securities and Exchange Commission on May 1, 2002,
+Amendment No. 1 thereto filed on August 12, 2002, Amendment No. 2 thereto filed
+on December 24, 2002 and Amendment No. 3 thereto filed on January 15, 2004,
+relating to the Common Stock, par value $0.01 per share, of Allied Healthcare
+International Inc. (formerly known as Transworld Healthcare, Inc.).
+
+Item 1.        Security and Issuer
+               -------------------
+
+         The title of the class of equity securities to which this Amendment No.
+4 relates is the common stock, par value $0.01 per share (the "Common Stock"),
+of Allied Healthcare International Inc., a New York corporation (the "Company").
+The address of the principal executive offices of the Company is 555 Madison
+Avenue, New York, New York 10022.
+
+Item 2.        Identity and Background
+               -----------------------
+
+         (a-c) This statement is being filed by Timothy M. Aitken. Mr. Aitken is
+the Chairman of the Board of the Company. Mr. Aitken served as Chief Executive
+Officer of the Company from January 15, 1997 until his resignation on January
+15, 2004. Mr. Aitken's business address is c/o Allied Healthcare International
+Inc., 555 Madison Avenue, New York, New York 10022.
+
+         Some of the securities of the Company that Mr. Aitken beneficially owns
+are held in the name of Aitken (English) Company Limited and Aitken Living
+Trust. Mr. Aitken has sole voting and dispositive power over the securities of
+the Company held by Aitken (English) Company Limited. Mr. Aitken is the sole
+beneficiary and the sole trustee of the Aitken Living Trust.
+
+         (d-e) During the last five years, Mr. Aitken has not been convicted in
+a criminal proceeding (excluding traffic violations or similar misdemeanors) nor
+has he been a party to a civil proceeding of a judicial or administrative body
+of competent jurisdiction as a result of which he was or is subject to a
+judgment, decree or final order enjoining future violations of, or prohibiting
+or mandating activities subject to, federal or state securities laws or as a
+result of which he has been found to be in violation of federal or state
+securities laws.
+
+         (f)   Mr. Aitken is a citizen of the United Kingdom.
+
+Item 3.        Source and Amount of Funds or Other Consideration
+               -------------------------------------------------
+
+         Mr. Aitken may be deemed to own an aggregate of 1,963,573 shares of
+Common Stock, determined as follows:
+
+         (i) Mr. Aitken acquired 20,000 shares of Common Stock in four
+open-market purchases in July 1998, which he subsequently transferred to the
+Aitken Living Trust;
+
+         (ii) Mr. Aitken is the holder of an aggregate of the 1,429,000 options
+described below which have been granted to him by the Company, of which
+1,173,000 are exercisable within 60 days of the date of this Amendment No. 4 to
+Schedule 13D;
+
+
+                                     Page 3
+<PAGE>
+
+
+
+
+<TABLE>
+<CAPTION>
+Grant Date                  Options Granted         Options Exercisable within 60 Days
+- ----------                  ---------------         ----------------------------------
+<S>                           <C>                     <C>
+January 15, 1997              500,000                 500,000
+
+December 6, 2000              195,000                 195,000
+
+Nov. 13, 2002                  60,000                  20,000
+
+June 3, 2003                   24,000                   8,000
+
+Sept. 25, 2003                300,000                 100,000
+
+December 2, 2003              350,000                 350,000
+
+         Total:             1,429,000               1,173,000
+</TABLE>
+
+         (iii) On April 22, 2002, Mr. Aitken was issued 684,258 shares of Common
+Stock (the "Bonus Shares") as a bonus as compensation for services rendered to
+the Company. On December 2, 2003, Mr. Aitken repaid a loan made by the Company
+to him in connection with the issuance of the Bonus Shares by delivering to the
+Company 103,596 shares of Common Stock. Mr. Aitken disposed of a further 60,000
+of these shares in the transaction described in Item 5(c) below);
+
+         (iv) In connection with the consummation of the Reorganization
+described in Item 6 below, Mr. Aitken was issued 87,200 shares of Series A
+Convertible Preferred Stock, par value $0.01 per share, of the Company (the
+"Series A Preferred Stock") and Aitken (English) Company Limited was issued
+87,200 shares of Series A Preferred Stock (an aggregate of 174,400 shares of
+Series A Preferred Stock). Pursuant to a Conversion Agreement that all holders
+of the Series A Preferred Stock (including Mr. Aitken and Aitken (English)
+Company Limited) entered into with the Company, upon the closing on July 7, 2004
+of the Public Offering (as such term is defined in Item 6 below), all holders of
+the Series A Preferred Stock converted their shares of Series A Preferred Stock
+into an equal number of shares of Common Stock. Pursuant to their respective
+Conversion Agreements, on July 7, 2004, each of Mr. Aitken and Aitken (English)
+Company converted 87,200 shares of Series A Preferred Stock into 87,200 shares
+of Common Stock.
+
+         (v) In connection with the consummation of the Reorganization described
+in Item 6 below, Mr. Aitken was issued 11,367 shares of Common Stock and Aitken
+(English) Company Limited was issued 11,366 shares of Common Stock (an aggregate
+of 22,733 shares of Common Stock); and
+
+         (vi) On September 16, 2003, Mr. Aitken effected a cashless exercise of
+150,000 options issued to him on September 16, 1998 and received an aggregate of
+52,778 shares of Common Stock.
+
+         Mr. Aitken used personal funds to make the open-market purchases.
+
+
+                                     Page 4
+<PAGE>
+
+
+Item 4.        Purpose of the Transactions
+               ---------------------------
+
+         Mr. Aitken has acquired the shares of Common Stock and other securities
+of the Company beneficially owned by him for investment purposes and as
+compensation for services rendered to the Company. Depending upon market
+conditions and other factors that Mr. Aitken may deem material, he may purchase
+or dispose of shares of Common Stock or other securities of the Company in the
+open market or in private transactions.
+
+         Pursuant to the Registration Rights Agreement which the Company entered
+into on July 25, 2002, which is described in Item 6 below, the Company
+registered the resale of, among other shares, all of the Bonus Shares and all of
+the shares of Common Stock (including the shares of Common Stock issuable upon
+the conversion of the Series A Preferred Stock) issued in the Reorganization.
+Such registration statement was declared effective by the Securities and
+Exchange Commission on August 21, 2002.
+
+         On February 9, 2004, the Company filed a Registration Statement on Form
+S-8 relating to the issuance of shares of Common Stock under its 2002 Stock
+Option Plan. Such Registration Statement contained a resale prospectus
+permitting Mr. Aitken to resell the shares of Common Stock issuable upon
+exercise of the options granted to him (whether granted pursuant to the 2002
+Stock Option Plan or another plan).
+
+         Except as set forth in this Item 4 or in Item 6 of this Schedule 13D
+(which is incorporated herein by reference), Mr. Aitken has no plans or
+proposals that relate to or would result in any of the following:
+
+         (a) The acquisition by any person of additional securities of the
+Company or the disposition of securities of the Company;
+
+         (b) An extraordinary corporate transaction, such as a merger,
+reorganization or liquidation, involving the Company or any of its subsidiaries;
+
+         (c) A sale or transfer of a material amount of assets of the Company or
+of any of its subsidiaries;
+
+         (d) Any change in the present board of directors or management of the
+Company, including any plans or proposals to change the number or term of
+directors or to fill any existing vacancies on the board;
+
+         (e) Any material change in the present capitalization or dividend
+policy of the Company;
+
+         (f) Any other material change in the Company's business or corporate
+structure;
+
+         (g) Changes in the Company's charter, bylaws or instruments
+corresponding thereto or other actions which may impede the acquisition of
+control of the Company by any person;
+
+
+                                     Page 5
+<PAGE>
+
+
+         (h) Causing a class of securities of the Company to be delisted from a
+national securities exchange or to cease to be authorized to be quoted in an
+inter-dealer quotation system of a registered national securities association;
+
+         (i) A class of equity securities of the Company becoming eligible for
+termination of registration pursuant to Section 12(g)(4) of the Securities
+Exchange Act of 1934, as amended; or
+
+         (j) Any action similar to any of those enumerated above.
+
+Item 5.        Interest in Securities of the Issuer
+               ------------------------------------
+
+         (a) As of July 7, 2004, there were 44,464,954 shares of Common Stock
+outstanding. The percentages reported in this statement have been rounded to the
+nearest one-tenth of a percent.
+
+         Mr. Aitken beneficially owns 1,963,573 shares of Common Stock, or 4.3%,
+of the outstanding shares of Common Stock, through (i) his beneficial ownership
+of 759,207 shares of Common Stock; (ii) his beneficial ownership of the 11,366
+shares of Common Stock held by Aitken (English) Company Limited and 20,000
+shares of Common Stock held by Aitken Living Trust; and (iii) options to
+purchase an aggregate of 1,173,000 shares of Common Stock which are exercisable
+within 60 days of the date of this Amendment No. 4 to Schedule 13D.
+
+         (c) During the last 60 days, Mr. Aitken has not effected any
+transactions in the Common Stock, except that:
+
+                  (i) On May 28, 2004, Mr. Aitken sold 60,000 shares of Common
+         Stock in an open market transaction to an existing shareholder of the
+         Company. The purchaser agreed not to sell or otherwise transfer such
+         60,000 shares for a period of 90 days subsequent to the Public Offering
+         (as defined in Item 6 below).
+
+                  (ii) On July 7, 2004, upon the consummation of the Public
+         Offering, each of Mr. Aitken and Aitken (English) Company converted
+         87,200 shares of Series A Preferred Stock into 87,200 shares of Common
+         Stock.
+
+         (d) No person other than Mr. Aitken has the right to receive or the
+power to direct the receipt of the dividends from, or the proceeds from the sale
+of, the shares of Common Stock beneficially owned by Mr. Aitken.
+
+         (e) On July 7, 2004, Mr. Aitken ceased to be the beneficial owner of
+more than five percent of the shares of Common Stock.
+
+Item 6.        Contracts, Arrangements, Understandings or Relationships
+               with Respect to the Securities of the Issuer
+               --------------------------------------------
+
+         Except as described below, Mr. Aitken is not a party to any contract,
+arrangement, understanding or relationship with respect to the securities of the
+Company, including, but not limited to, the transfer or voting of any of the
+securities of the Company, finder's fees, joint ventures, loan or option
+arrangements, puts or calls, guarantees of profits, division of profits or
+
+
+                                     Page 6
+<PAGE>
+
+
+losses or the giving or withholding of proxies. The following descriptions of
+various agreements are qualified in their entirety by reference to the copies of
+such agreements that are attached hereto as exhibits and incorporated herein by
+reference.
+
+         Bonus Share Issuance. On April 22, 2002, the Company issued the Bonus
+Shares to Timothy M. Aitken as compensation for services rendered to the
+Company. Such issuance is referred to herein as "Bonus Share Issuance." The
+Bonus Share Issuance to Mr. Aitken was unanimously approved by the board of
+directors of the Company (with Mr. Aitken abstaining because of his interest in
+the transaction) at a meeting held on April 19, 2002, subject to final approval
+by the independent directors of the Company at a separate meeting. The Bonus
+Share Issuance was approved by the independent directors of the Company at a
+meeting of the independent directors held on April 21, 2002.
+
+         Tax Agreement. In connection with the Bonus Share Issuance, on April
+22, 2002, the Company and Allied Healthcare Holdings Limited, a subsidiary of
+the Company formerly known as Transworld Healthcare (UK) Limited ("TWUK"),
+entered into a Tax Bonus, Tax Loan and Tax Indemnification Agreement (the "Tax
+Agreement") with Mr. Aitken. The purpose of the Tax Agreement was to provide Mr.
+Aitken with substantially all of the cash (through a cash bonus and a loan from
+the Company) necessary for him to pay the federal, New York State and New York
+City income taxes that he is expected to incur as a result of the Bonus Share
+Issuance and to provide him with the tax indemnity described below. The Tax
+Agreement was approved by the board of directors of the Company on April 19,
+2002 (with Mr. Aitken abstaining because of his interest in the transaction),
+subject to final approval by the independent directors of the Company at a
+separate meeting. The Tax Agreement was approved by the independent directors at
+a separate meeting on April 21, 2002.
+
+         Pursuant to the Tax Agreement, on April 30, 2002, the Company made a
+cash payment to Mr. Aitken in the amount of $1,401,263 and loaned Mr. Aitken the
+amount of $550,000. The loan was subsequently repaid, as described below.
+
+         Pursuant to the Tax Agreement, TWUK will be obligated to indemnify Mr.
+Aitken for federal, New York State and New York City taxable income in excess of
+an agreed-upon amount that may arise from the Bonus Share Issuance. However,
+TWUK's indemnity obligation to Mr. Aitken is capped at $622,371. Moreover, of
+the tax indemnity payments, if any, to Mr. Aitken, an amount equal to 20% of
+such excess taxable income will be made in the form of a loan. TWUK's obligation
+to make indemnity payments, if any are required to be made, is subject to the
+receipt from certain of TWUK's lenders of their consent to such payment.
+
+         Promissory Note. The loan to Mr. Aitken that the Company made on April
+30, 2002 pursuant to the Tax Agreement was evidenced by a promissory note in the
+principal amount of $550,000 executed by Mr. Aitken. The promissory note bore
+interest at a rate of 4.65% per annum.
+
+         On December 2, 2003, Mr. Aitken repaid in full the principal of and
+accrued interest on the promissory note. The principal and accrued interest
+aggregated $590,500. The loan was repaid by the delivery to the Company of
+103,596 shares of Common Stock held by Mr. Aitken, valued at $5.70 per share,
+the closing price of a share of Common Stock on the day prior to the
+
+
+                                     Page 7
+<PAGE>
+
+
+repayment date. The Company also agreed to reimburse Mr. Aitken for the taxes
+incurred by him on the disposition of the shares to the Company, which are
+estimated to be approximately $83,395.
+
+         Mr. Aitken's obligations under the promissory note were secured by a
+pledge by him to the Company, pursuant to a Pledge and Security Agreement, dated
+April 30, 2002, of certain of the securities of the Company owned by him. Mr.
+Aitken's obligations under the Pledge and Security Agreement were terminated
+simultaneously with the payment of the promissory note.
+
+         Reorganization Agreement. On July 25, 2002, the Company consummated a
+reorganization (the "Reorganization") involving the Company and two of its U.K.
+subsidiaries, Allied Healthcare Group Limited ("Allied Healthcare (UK)") and
+TWUK. The Reorganization was consummated pursuant to a Master Reorganization
+Agreement, dated as of April 24, 2002, as amended on May 16, 2002 and June 26,
+2002 (the "Reorganization Agreement"), among the Company, Allied Healthcare
+(UK), TWUK and certain investors in such subsidiaries, including Mr. Aitken. In
+the Reorganization, equity investments in TWUK and subordinated debt investments
+in Allied Healthcare (UK) were exchanged for shares of Common Stock and shares
+of Series A Preferred Stock.
+
+         As a result of Mr. Aitken's and Aitken (English) Company Limited's
+ownership of equity investments in TWUK and debt investments in Allied
+Healthcare (UK), in the Reorganization Mr. Aitken was issued 11,366 shares of
+Common Stock and 87,200 shares of Series A Preferred Stock and Aitken (English)
+Company Limited was issued 11,367 shares of Common Stock and 87,200 shares of
+Series A Preferred Stock (an aggregate of 174,400 shares of Series A Preferred
+Stock).
+
+         Registration Rights Agreement. On July 25, 2002, in connection with the
+consummation of the Reorganization, the Company entered into a Registration
+Rights Agreement. Pursuant to this Registration Rights Agreement, the Company is
+required to file a registration statement covering the resale of all of the
+shares of Common Stock issued or issuable as a result of the consummation of the
+Reorganization (including the shares of Common Stock issuable upon conversion of
+the Series A Preferred Stock), as well as certain other shares of stock then
+outstanding, including the Bonus Shares issued to Mr. Aitken. The registration
+statement contemplated by the Registration Rights Agreement was declared
+effective by the Securities and Exchange Commission on August 21, 2002.
+
+         Resale Prospectus. On February 9, 2004, the Company filed a
+Registration Statement on Form S-8 relating to the issuance of shares of Common
+Stock under its 2002 Stock Option Plan. Such Registration Statement contained a
+resale prospectus permitting Mr. Aitken to resell the shares of Common Stock
+issuable upon exercise of the employee stock options granted to him (whether
+granted pursuant to the 2002 Stock Option Plan or the 1992 Stock Option Plan of
+the Company).
+
+         Option Grants. Mr. Aitken has been issued options to purchase shares of
+Common Stock under the 2002 Stock Option Plan and the 1992 Stock Option Plan of
+the Company. His outstanding options are summarized in Item 3 of this Amendment
+No. 4 to Schedule 13D.
+
+
+                                     Page 8
+<PAGE>
+
+
+         Lock-Up Agreement. On July 7, 2004, the Company consummated an
+underwritten public offering of 14,500,000 shares of Common Stock (the "Public
+Offering"). On July 1, 2004, Mr. Aitken entered into a Lock-Up Agreement
+pursuant to which he agreed not to offer, sell, contract to sell or otherwise
+dispose of (either directly or through an affiliate) any shares of capital stock
+of the Company for a period of 90 days subsequent to July 1, 2004, except as
+permitted therein.
+
+         Conversion Agreements. On July 7, 2004, the Company consummated the
+Public Offering. Pursuant to Conversion Agreements which each of Mr. Aitken and
+Aitken (English) Company had entered into (as had all holders of Series A
+Preferred Stock), upon the consummation of such Public Offering, each of Mr.
+Aitken and Aitken (English) Company converted 87,200 shares of Series A
+Preferred Stock into 87,200 shares of Common Stock. In connection with such
+conversion, (a) Mr. Aitken received $82,874 in accrued and unpaid dividends on
+his shares of Series A Preferred Stock and a conversion fee of $22,816 and (b)
+Aitken (English) Company received $82,874 in accrued and unpaid dividends on its
+shares of Series A Preferred Stock and a conversion fee of $22,816.
+
+         The foregoing descriptions of the various agreements are qualified by
+reference to the copies of such agreements attached hereto as exhibits, which
+agreements are incorporated herein by reference.
+
+
+                                     Page 9
+<PAGE>
+
+
+
+
+
+Item 7.  Material to be Filed as Exhibits
+         --------------------------------
+
+1.       Tax Bonus, Tax Loan and Tax Indemnification Agreement, dated as of
+         April 22, 2002, by and among Transworld Healthcare (UK) Limited,
+         Transworld Healthcare, Inc. (now known as Allied Healthcare
+         International Inc.) and Timothy M. Aitken (incorporated herein by
+         reference to Exhibit 10.21 to the Registration Statement on Form S-4
+         (Reg. St. No. 333-87304) of Transworld Healthcare, Inc. (now known as
+         Allied Healthcare International Inc.) filed with the Securities and
+         Exchange Commission on May 1, 2002).
+
+2.       Promissory Note, dated April 30, 2002, executed by Timothy M. Aitken in
+         favor of Transworld Healthcare, Inc. (now kown as Allied Healthcare
+         International Inc.) (incorporated herein by reference to Exhibit 2 to
+         Amendment No. 1 to the Schedule 13D of Timothy M. Aitken filed with the
+         Securities and Exchange Commission on August 12, 2002).Healthcare, Inc.
+         (now known as Allied Healthcare International Inc.) (incorporated
+         herein by reference to Exhibit 2 to Amendment No. 1 to the Schedule 13D
+         of Timothy M. Aitken filed with the Securities and Exchange Commission
+         on August 12, 2002).
+
+3.       Letter agreement, dated December 2, 2003, between Allied Healthcare
+         International Inc. and Timothy M. Aitken relating to the repayment of
+         the loan evidenced by the Promissory Note, dated April 30, 2002,
+         executed by Timothy M. Aitken (incorporated herein by reference to
+         Amendment No. 3 to the Schedule 13D of Mr. Aitken with respect to the
+         Common Stock of the Company filed with the Securities and Exchange
+         Commission on January 15, 2004).
+
+4.       Pledge and Security Agreement, dated as of April 30, 2002, between
+         Timothy M. Aitken and Transworld Healthcare, Inc. (now known as Allied
+         Healthcare International Inc.) (incorporated herein by reference to
+         Exhibit 3 to Amendment No. 1 to the Schedule 13D of Timothy M. Aitken
+         filed with the Securities and Exchange Commission on August 12, 2002).
+
+5.       Master Reorganization Agreement, dated as of April 24, 2002, by and
+         among Transworld Healthcare, Inc. (now known as Allied Healthcare
+         International Inc.), Allied Healthcare Group Limited, Transworld
+         Healthcare (UK) Limited and the Investors named therein (incorporated
+         herein by reference to Annex A-1 to the proxy statement/prospectus
+         forming a part of the Registration Statement on Form S-4 (Reg. St. No.
+         333-87304) of Transworld Healthcare, Inc. (now known as Allied
+         Healthcare International Inc.) filed with the Securities and Exchange
+         Commission on May 1, 2002).
+
+
+                                     Page 10
+<PAGE>
+
+
+6.       First Amendment to the Master Reorganization Agreement, dated as of May
+         16, 2002, by and among Transworld Healthcare, Inc. (now known as Allied
+         Healthcare International Inc.) Allied Healthcare Group Limited,
+         Transworld Healthcare (UK) Limited and the Investors named therein
+         (incorporated herein by reference to Exhibit 10.17A to Amendment No. 1
+         to the Registration Statement on Form S-4 (Reg. St. No. 333-87304) of
+         Transworld Healthcare, Inc. (now known as Allied Healthcare
+         International Inc.) filed with the Securities and Exchange Commission
+         on May 21, 2002).
+
+7.       Second Amendment to the Master Reorganization Agreement, dated as of
+         June 26, 2002, by and among Transworld Healthcare, Inc. (now known as
+         Allied Healthcare International Inc.), Allied Healthcare Group Limited,
+         Transworld Healthcare (UK) Limited and the Investors named therein
+         (incorporated herein by reference to Exhibit 10.3 to Allied Healthcare
+         International Inc.'s Current Report on Form 8-K filed with the
+         Securities and Exchange Commission on August 9, 2002).
+
+8.       Registration Rights Agreement, dated as of July 25, 2002, among Allied
+         Healthcare International Inc. and the persons named therein
+         (incorporated herein by reference to Exhibit 10.5 to Allied Healthcare
+         International Inc.'s Current Report on Form 8-K filed with the
+         Securities and Exchange Commission on August 9, 2002).
+
+9.       Power of attorney, dated July 29, 2003, executed by Timothy M. Aitken
+         (incorporated herein by reference to Amendment No. 3 to the Schedule
+         13D of Mr. Aitken with respect to the Common Stock of the Company filed
+         with the Securities and Exchange Commission on January 15, 2004).
+
+10.      Conversion Agreement, dated April 28, 2004, between Allied Healthcare
+         International Inc. and and Timothy M. Aitken.
+
+11.      Conversion Agreement, dated April 28, 2004, between Allied Healthcare
+         International Inc. and Aitken (English) Company Limited.
+
+12.      Lock-up Agreement, dated as of July 1, 2004, of Timothy M. Aitken.
+
+
+                                     Page 11
+<PAGE>
+
+
+
+
+                                    SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+                                                  /s/ Timothy M. Aitken
+                                                 ----------------------
+
+
+
+
+Date: July 9, 2004
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>file002.txt
+<DESCRIPTION>CONVERSION AGREEMENT
+<TEXT>
+<PAGE>
+
+                              CONVERSION AGREEMENT
+
+
+         This Agreement is entered into as of April 28, 2004, by and among
+Allied Healthcare International Inc., a New York corporation (the "COMPANY"),
+and Timothy Aitken (the "HOLDER").
+
+         WHEREAS, the Company intends to conduct an underwritten public offering
+of its common stock, par value $.01 per share (the "COMMON STOCK"), during the
+next several months; and
+
+         WHEREAS, the Holder desires to exercise their conversion rights with
+respect to the shares of Series A convertible preferred stock, $.01 par value
+per share (the "PREFERRED STOCK"), of the Company beneficially owned by the
+Holder pursuant to Section 5(a) of the Certificate of Amendment to the
+Certificate of Incorporation of the Company defining the rights and preferences
+of the Preferred Stock.
+
+         NOW, THEREFORE, in consideration of the foregoing and the mutual
+agreements herein contained and other good and valuable consideration, the
+receipt of which is hereby acknowledged, the Company and the Holder hereby agree
+as follows:
+
+         1. Conversion of the Preferred Stock into Common Stock. Conditioned
+upon and effective as of the closing of an underwritten public offering by the
+Company of its Common Stock with a minimum of $50 million in gross proceeds to
+the Company, which closes on or prior to December 31, 2004 (the "OFFERING"),
+each share of Preferred Stock owned by such Holder will be converted (the
+"CONVERSION") into one (1) share of Common Stock and the Company will pay each
+Holder in cash all accumulated but unpaid dividends thereon, whether or not any
+such dividends have been declared, computed through the date of the Conversion
+within five (5) business days following the closing of the Offering. In the
+event that the Offering is not closed on or prior to December 31, 2004, this
+Agreement, including Section 4 hereof, shall be of no further force or effect.
+
+         2. Certificates. Upon surrender of the certificates representing the
+Preferred Stock, the Company shall issue certificates evidencing the issuance of
+Common Stock to the Holder in the amount set forth opposite such Holder's name
+as set forth on Exhibit A hereto. Upon notice of the closing of the Offering,
+the Holder agrees to promptly deliver to the Company (and in any event within
+five (5) business days thereafter) all certificates evidencing the Preferred
+Stock, duly endorsed for transfer.
+
+         3. Conversion Fee. The Company shall pay to the Holder within five (5)
+business days following the closing of the Offering, a conversion fee equal to
+$22,816 (the "CONVERSION FEE"). Notwithstanding the foregoing, if at anytime
+within the six (6) month period following the closing of the Offering, the
+Company's Common Stock trades above $11.32 for ten (10) out of any period of
+thirty (30) consecutive trading days during such six (6) month period (the tenth
+such day being the "THRESHOLD DATE"), then the Holder shall pay to the Company
+an amount equal to the pro rata portion of the Conversion Fee attributable to
+such six (6) month period occurring after the Threshold Date. By way of
+illustration, if the Offering closes on June 1, 2004 and the Threshold Date
+occurs on October 1, 2004, then the Holder shall pay to the Company an
+
+
+<PAGE>
+
+amount equal to 33.33% of the Conversion Fee or $7,605. The Holder shall pay
+such amount to the Company within five (5) business days after the end of the
+six (6) month period following closing of the Offering.
+
+         4. Confirmation. The undersigned Holder confirms that (i) this election
+is unconditional and irrevocable subject only to the closing of the Offering,
+and the conversion date of the Holder's shares of Preferred Stock shall be
+deemed to be the closing date of the Offering for all purposes; (ii) upon
+delivery of the shares of Common Stock described on Exhibit A, all accrued or
+unpaid dividends, and the amount described in Section 3 hereof by the Company to
+the Holder, the Holder shall have no other claims against the Company or any
+subsidiary or affiliate thereof as Holder of the Preferred Stock or pursuant to
+the Certificate of Designations of the Company under which the Preferred Stock
+was authorized and issued.
+
+         5. Successors and Assigns. This Agreement shall inure to the benefit of
+and be binding upon the successors and assigns of each of the parties hereto.
+
+         6. Amendment and Waiver. This Agreement may be amended, modified or
+supplemented, and waivers of or consents to departures from the provisions
+hereof may be given, provided that any such amendments, modifications or
+supplements are in writing and signed by each of the parties hereto.
+
+         7. Counterparts. This Agreement may be executed in any number of
+counterparts and by the parties hereto in separate counterparts, each of which
+when so executed shall be deemed to be an original and all of which when taken
+together shall constitute one and the same agreement.
+
+
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+                                       2
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have duly executed this
+Agreement as of the day and year first above written.
+
+
+                                          ALLIED HEALTHCARE
+                                          INTERNATIONAL INC.
+
+
+                                          By: /s/ Sarah Ladd Eames
+                                              ---------------------------------
+                                              Name:  Sarah Ladd Eames
+                                              Title: President
+
+
+                                          /s/ Timothy M. Aitken
+                                          -------------------------------------
+                                          Timothy Aitken
+
+
+
+
+                                       3
+
+<PAGE>
+
+
+                                    EXHIBIT A
+
+
+Holder                                           Shares of Common Stock
+- ------                                           ----------------------
+Timothy Aitken                                            87,200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      A-1
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<FILENAME>file003.txt
+<DESCRIPTION>CONVERSION AGREEMENT
+<TEXT>
+<PAGE>
+
+                              CONVERSION AGREEMENT
+
+
+         This Agreement is entered into as of April 28, 2004, by and among
+Allied Healthcare International Inc., a New York corporation (the "COMPANY"),
+and Aitken (English) Company Limited (the "HOLDER").
+
+         WHEREAS, the Company intends to conduct an underwritten public offering
+of its common stock, par value $.01 per share (the "COMMON STOCK"), during the
+next several months; and
+
+         WHEREAS, the Holder desires to exercise their conversion rights with
+respect to the shares of Series A convertible preferred stock, $.01 par value
+per share (the "PREFERRED STOCK"), of the Company beneficially owned by the
+Holder pursuant to Section 5(a) of the Certificate of Amendment to the
+Certificate of Incorporation of the Company defining the rights and preferences
+of the Preferred Stock.
+
+         NOW, THEREFORE, in consideration of the foregoing and the mutual
+agreements herein contained and other good and valuable consideration, the
+receipt of which is hereby acknowledged, the Company and the Holder hereby agree
+as follows:
+
+         1. Conversion of the Preferred Stock into Common Stock. Conditioned
+upon and effective as of the closing of an underwritten public offering by the
+Company of its Common Stock with a minimum of $50 million in gross proceeds to
+the Company, which closes on or prior to December 31, 2004 (the "OFFERING"),
+each share of Preferred Stock owned by such Holder will be converted (the
+"CONVERSION") into one (1) share of Common Stock and the Company will pay each
+Holder in cash all accumulated but unpaid dividends thereon, whether or not any
+such dividends have been declared, computed through the date of the Conversion
+within five (5) business days following the closing of the Offering. In the
+event that the Offering is not closed on or prior to December 31, 2004, this
+Agreement, including Section 4 hereof, shall be of no further force or effect.
+
+         2. Certificates. Upon surrender of the certificates representing the
+Preferred Stock, the Company shall issue certificates evidencing the issuance of
+Common Stock to the Holder in the amount set forth opposite such Holder's name
+as set forth on Exhibit A hereto. Upon notice of the closing of the Offering,
+the Holder agrees to promptly deliver to the Company (and in any event within
+five (5) business days thereafter) all certificates evidencing the Preferred
+Stock, duly endorsed for transfer.
+
+         3. Conversion Fee. The Company shall pay to the Holder within five (5)
+business days following the closing of the Offering, a conversion fee equal to
+$22,816 (the "CONVERSION FEE"). Notwithstanding the foregoing, if at anytime
+within the six (6) month period following the closing of the Offering, the
+Company's Common Stock trades above $11.32 for ten (10) out of any period of
+thirty (30) consecutive trading days during such six (6) month period (the tenth
+such day being the "THRESHOLD DATE"), then the Holder shall pay to the Company
+an amount equal to the pro rata portion of the Conversion Fee attributable to
+such six (6) month period occurring after the Threshold Date. By way of
+illustration, if the Offering closes on June 1, 2004 and the Threshold Date
+occurs on October 1, 2004, then the Holder shall pay to the Company an
+
+
+<PAGE>
+
+amount equal to 33.33% of the Conversion Fee or $7,605. The Holder shall pay
+such amount to the Company within five (5) business days after the end of the
+six (6) month period following closing of the Offering.
+
+         4. Confirmation. The undersigned Holder confirms that (i) this election
+is unconditional and irrevocable subject only to the closing of the Offering,
+and the conversion date of the Holder's shares of Preferred Stock shall be
+deemed to be the closing date of the Offering for all purposes; (ii) upon
+delivery of the shares of Common Stock described on Exhibit A, all accrued or
+unpaid dividends, and the amount described in Section 3 hereof by the Company to
+the Holder, the Holder shall have no other claims against the Company or any
+subsidiary or affiliate thereof as Holder of the Preferred Stock or pursuant to
+the Certificate of Designations of the Company under which the Preferred Stock
+was authorized and issued.
+
+         5. Successors and Assigns. This Agreement shall inure to the benefit of
+and be binding upon the successors and assigns of each of the parties hereto.
+
+         6. Amendment and Waiver. This Agreement may be amended, modified or
+supplemented, and waivers of or consents to departures from the provisions
+hereof may be given, provided that any such amendments, modifications or
+supplements are in writing and signed by each of the parties hereto.
+
+         7. Counterparts. This Agreement may be executed in any number of
+counterparts and by the parties hereto in separate counterparts, each of which
+when so executed shall be deemed to be an original and all of which when taken
+together shall constitute one and the same agreement.
+
+
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       2
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have duly executed this
+Agreement as of the day and year first above written.
+
+
+                                      ALLIED HEALTHCARE
+                                         INTERNATIONAL INC.
+
+
+                                      By: /s/ Sarah Ladd Eames
+                                          -----------------------------------
+                                          Name:  Sarah Ladd Eames
+                                          Title: President
+
+
+                                      Aitken (English) Company Limited
+
+
+                                      By: /s/ Timothy M. Aitken
+                                          ---------------------
+                                          Name:
+                                          Title:
+
+
+
+
+
+
+
+
+
+                                       3
+
+<PAGE>
+
+
+                                    EXHIBIT A
+
+
+Holder                                              Shares of Common Stock
+- ------                                              ----------------------
+Aitken (English) Company Limited                             87,200
+
+
+
+
+
+
+
+
+
+
+
+                                      A-1
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>4
+<FILENAME>file004.txt
+<DESCRIPTION>LOCK-UP AGREEMENT
+<TEXT>
+<PAGE>
+
+
+                      ALLIED HEALTHCARE INTERNATIONAL INC.
+
+                            Offering of Common Stock
+
+                                                                    July 1, 2004
+
+FRIEDMAN, BILLINGS, RAMSEY & CO., INC.
+  as Representative of the several Underwriters
+c/o  Friedman, Billings, Ramsey & Co., Inc.
+     1001 19th Street North
+     Arlington, Virginia  22209
+
+Ladies and Gentlemen:
+
+         This letter is being delivered to you in connection with the proposed
+Underwriting Agreement (the "Underwriting Agreement"), between Allied Healthcare
+International Inc., a New York corporation (the "Company"), and you as
+representative of a group of Underwriters named therein, relating to an
+underwritten public offering of Common Stock, $0.01 par value (the "Common
+Stock"), of the Company.
+
+         In order to induce you and the other Underwriters to enter into the
+Underwriting Agreement, the undersigned will not, without the prior written
+consent of Friedman, Billings, Ramsey & Co., Inc., offer, sell, contract to
+sell, assign, transfer, pledge or otherwise dispose of, (or enter into any
+transaction which is designed to, or might reasonably be expected to, result in
+the disposition (whether by actual disposition or effective economic disposition
+due to cash settlement or otherwise) by the undersigned or any affiliate of the
+undersigned or any person in privity with the undersigned or any affiliate of
+the undersigned), directly or indirectly, including the filing (or participation
+in the filing) of a registration statement with the Securities and Exchange
+Commission in respect of, or establish or increase a put equivalent position or
+liquidate or decrease a call equivalent position within the meaning of Section
+16 of the Securities Exchange Act of 1934, as amended, and the rules and
+regulations of the Securities and Exchange Commission promulgated thereunder
+with respect to, any shares of capital stock of the Company or any securities
+convertible into, or exercisable or exchangeable for such capital stock, or
+publicly announce an intention to effect any such transaction, for a period of
+90 days following the date of the Company's final Prospectus, other than (a)
+shares of Common Stock purchased by the Underwriters pursuant to the
+Underwriting Agreement, (b) shares of Common Stock disposed of as approved by
+Friedman, Billings, Ramsey & Co., Inc. and (c) up to 60,000 shares of Common
+Stock that the undersigned may or has transferred or sold to J. Reed for benefit
+of raising funds to satisfy former marital issues such shares to be subject to
+same lock up which J. Reed agrees to.
+
+
+<PAGE>
+
+         If (i) the Company issues an earnings release or material news or a
+material event relating to the Company occurs during the last 17 days of the
+lock-up period, or (ii) prior to the expiration of the lock-up period, the
+Company announces that it will release earnings results during the 16-day period
+beginning on the last day of the lock-up period, the restrictions imposed by
+this Agreement shall continue to apply until the expiration of the 18-day period
+beginning on the issuance of the earnings release or the occurrence of the
+material news or material event.
+
+         Anything contained herein to the contrary notwithstanding, any person
+to whom shares of Common Stock are transferred from the undersigned shall be
+bound by the terms of this Agreement.
+
+         In addition, the undersigned hereby waives, from the date hereof until
+the expiration of the 90 day period following the date of the Company's final
+Prospectus, any and all rights, if any, to request or demand registration
+pursuant to the Securities Act of 1933, as amended, of any shares of Common
+Stock that are registered in the name of the undersigned or any shares of Common
+Stock that are deemed to be beneficially owned by the undersigned in accordance
+with the rules and regulations promulgated under the Securities Act (the
+"Beneficially Owned Shares"). In order to enable the aforesaid covenants to be
+enforced, the undersigned hereby consents to the placing of stop-transfer orders
+with the transfer agent of the Common Stock with respect to any shares of Common
+Stock or Beneficially Owned Shares.
+
+         The agreement set forth above shall terminate on the date that the
+Company or Friedman, Billings, Ramsey & Co., Inc. notifies the undersigned in
+writing that it does not intend to proceed with the public offering of Common
+Stock contemplated hereby. If for any reason the Underwriting Agreement shall be
+terminated prior to the Closing Date (as defined in the Underwriting Agreement),
+the agreement set forth above shall likewise be terminated.
+
+
+
+                                                 Yours very truly,
+
+
+
+                                                 /s/ Timothy M. Aitken
+                                                 ---------------------------
+                                                 By: Timothy M. Aitken
+                                                 Address:
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
